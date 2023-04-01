@@ -13,6 +13,7 @@
 * 1/4 cup salt
 * 1/4 cup basil
 * 3 tablespoons bay leaves (ground)
+    * 1.125 ounces
 * 2 tablespoons coriander (ground)
 * 2 tablespoons savory (ground)
 * 2 tablespoons thyme
