@@ -7,6 +7,7 @@
 * 1 1/4 cups coconut sugar
 * 1 cup paprika
 * 1/3 cup mustard powder
+    * Or 3 tablespoons mustard seeds (freshly ground)
 * 1/3 cup onion powder
 * 1/3 cup garlic powder
 * 1/4 cup salt
