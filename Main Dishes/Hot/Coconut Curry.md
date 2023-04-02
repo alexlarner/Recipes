@@ -9,7 +9,7 @@
     * Or 1 cup **pumpkin**, pureed
 * 2 tablespoons **coconut sugar**
 * 2 tablespoons **coconut oil**
-* 1 jar **_Maesri_ curry paste**
+* 1 jar **_Maesri_ Panang curry paste**
 * 2 **onions**, diced
 * 3 **peppers**, diced
 * 1/2 bulb **garlic**, crushed
