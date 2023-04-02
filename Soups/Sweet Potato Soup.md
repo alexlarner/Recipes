@@ -2,9 +2,11 @@
 
 ## Ingredients
 
-* 8 large sweet potatoes
-* 3 quarts chicken stock
-* 1/4 cup homemade chili-**only** powder
+* 8 large **sweet potatoes**
+* 3 quarts **chicken stock**
+* 1/4 cup **chili-only powder**
+	* 2 tablespoons **ancho peppers**, ground
+	* 2 tablespoons **guajillo peppers**, ground
 
 ## Directions
 1. Preheat oven to 400 F
