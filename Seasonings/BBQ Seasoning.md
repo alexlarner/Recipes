@@ -4,19 +4,26 @@
 
 ## Ingredients
 
-* 1 1/4 cups coconut sugar
-* 1 cup paprika
-* 1/3 cup mustard powder
-    * Or 3 tablespoons mustard seeds (freshly ground)
-* 1/3 cup onion powder
-* 1/3 cup garlic powder
-* 1/4 cup salt
-* 1/4 cup basil
-* 3 tablespoons bay leaves (ground)
-    * 0.5 ounces
-* 2 tablespoons coriander (ground)
-* 2 tablespoons savory (ground)
-* 2 tablespoons thyme
-* 2 tablespoons black pepper
-* 2 tablespoons white pepper
-* 1 teaspoons cumin
+* 1 1/4 cups **coconut sugar**
+* 1 cup **paprika**
+* 1/3 cup **onion powder**
+* 1/3 cup **garlic powder**
+* 1/4 cup **salt**
+* 1/4 cup **basil**, dried
+* 0.5 ounces **bay leaves**
+* 2 tablespoons **savory**
+* 2 tablespoons **thyme**
+* 3 tablespoons **mustard seeds**
+* 2 tablespoons **coriander**, whole
+* 2 tablespoons **black peppercorns**
+* 2 tablespoons **white peppercorns**
+* 1 teaspoons **cumin seed**
+
+## Directions
+
+1. Preheat oven to 350 F
+1. Toast mustard seeds in the oven for 5 minutes
+1. Toast coriander, peppercorns, and cumin in the oven for 10 minutes
+1. Let toasted spices cool to room temperature
+1. Grind everything to a powder, except for the sugar, paprika, onion powder, garlic powder, and salt
+1. Combine all ingredients and mix well
