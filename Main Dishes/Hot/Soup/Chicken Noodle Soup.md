@@ -2,15 +2,17 @@
 
 ## Ingredients
 
-* 1/2 gallon [chicken stock](Main Dishes\Ingredients\Stock.md)
-* 12 oz egg noodles
-* 1/2 lemon, juiced
-* 1 medium onion
-* 1/2 celery heart
-* Marjoram
-* Thyme
-* Parsley
-* Basil
+* 1 gallon [**chicken stock**](Main Dishes\Ingredients\Stock.md)
+* 2 pounds **chicken**, cooked & diced
+* 12 oz **egg noodles**
+* 1 **lemon**, juiced
+* 1 pounds **carrots**
+* 1 pounds **onions**
+* 1/2 pound **celery**
+* 0.25 ounces **marjoram**
+* 0.25 ounces **thyme**
+* 0.25 ounces **parsley**
+* 0.25 ounces **basil**
 
 ## Directions
 
