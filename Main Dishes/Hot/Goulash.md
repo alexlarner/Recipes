@@ -1,6 +1,6 @@
 # Goulash
 
-*Makes 7.5 pounds/1 gallon*
+Makes 7.5 pounds/1 gallon
 
 ## Ingredients
 

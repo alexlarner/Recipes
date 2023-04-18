@@ -1,6 +1,6 @@
 # Buttermilk Pancakes
 
-*Makes 12 1/2 cup Pancakes*
+Makes 12 1/2 cup Pancakes
 
 ## Ingredients
 

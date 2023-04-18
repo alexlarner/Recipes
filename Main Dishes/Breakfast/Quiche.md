@@ -1,7 +1,7 @@
 # Quiche
 
-*Makes 24 muffin tin quiches or 2 9” pies*
-*5 quiches to a serving*
+Makes 24 muffin tin quiches or 2 9” pies
+5 quiches to a serving
 
 ## Ingredients
 

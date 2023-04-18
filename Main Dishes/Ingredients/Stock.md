@@ -2,15 +2,15 @@
 
 ## Ingredients
 
-* 2 onions, quartered
-* 1 bulb garlic, halved
-* 1 head of celery, quartered
-* 1/2 pounds carrots
-* 2-3 pounds chicken or beef bones
-* 2 tablespoons apple cider vinegar
-* 1 tablespoon salt
-* 1 teaspoon black peppercorns
-* 3 bay leaves
+* 2 **onions**, quartered
+* 1 bulb **garlic**, halved
+* 1 head of **celery**, quartered
+* 1/2 pounds **carrots**
+* 2-3 pounds **chicken or beef bones**
+* 2 tablespoons **apple cider vinegar**
+* 1 tablespoon **salt**
+* 1 teaspoon **black peppercorns**
+* 3 **bay leaves**
 
 ## Directions
 

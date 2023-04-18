@@ -1,23 +1,23 @@
-# Coconut Granola
+# Maple Pecan Granola
 
 ## Ingredients
 
 - 3 1/2 cups **old-fashioned rolled oats**
-- 1 cup **coconut flakes**
-- 1 cup **macadamia nuts**, halved
+- 1 cup **pecans**, chopped
+- 1/2 cup **pecan flour**
 - 1 cup **seeds** (flax/pumpkin/sunflower)
-- 1/2 cup **coconut flour**
-- 1.5 ounces **Ceylon cinnamon**, freshly ground
-    - About 12 sticks
-    - About 1/2 cup
-- 1 tablespoon **ground ginger**
-- 1 tablespoon **cardamom**, freshly ground
+- 0.75 ounces **Korintje/Saigon cinnamon**, freshly ground
+    - About 8 sticks
+    - About 1/4 cup
+- 1 teaspoon **cloves**, freshly ground
+- 1 teaspoon **allspice**, freshly ground
+- 1 teaspoon **nutmeg**, freshly ground
+    - About 1 small whole nutmeg
 - 2 teaspoons **coarse kosher salt**
-- 1 cup **coconut syrup**
+- 1 cup pure **maple syrup**
 - 3 ounces **coconut oil**, melted
     - About 1/2 cup
 - 2 **egg whites**
-- 1 cup **white chocolate chips**, optional
 
 ## Directions
 
