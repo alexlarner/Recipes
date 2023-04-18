@@ -2,17 +2,20 @@
 
 ## Ingredients
 
-- 3 1/2 cups rolled oats
+- 3 1/2 cups rolled oats, old-fashioned
 - 1 cup coconut flakes
 - 1 cup macadamia nuts, crushed
 - 1 cup seeds (flax/pumpkin/sunflower)
 - 1/2 cup coconut flour
-- 1/2 cup Ceylon cinnamon, freshly ground
+- 1.5 ounces (by weight) Ceylon cinnamon, freshly ground
+    - About 12 sticks
+    - About 1/2 cup
 - 1 tablespoon ground ginger
-- 1 tablespoon cardamom, optional
-- 1 teaspoon salt
+- 1 tablespoon cardamom
+- 2 teaspoons salt
 - 1 cup coconut syrup
-- 1/2 cup coconut oil, melted
+- 3 ounces coconut oil, melted
+    - About 1/2 cup
 - 2 egg whites
 - 1 cup white chocolate chips, optional
 
