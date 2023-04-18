@@ -17,6 +17,8 @@
 1. Fill the roasting pan with boiling water up to halfway on the sides of the cake pan
 1. Mix coconut milk, coconut sugar, and eggs together
     - Try to incorporate as little air as possible
+    - Hand stir only, mixers, blenders, and food processors incorporate too much air
+        - Stir only in one direction, do not change directions
 1. Strain mixture into the cake pan
 1. Cook for 1 hour in the oven
 1. Let cool to room temperature
