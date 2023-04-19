@@ -20,6 +20,6 @@
     - Hand stir only, mixers, blenders, and food processors incorporate too much air
         - Stir only in one direction, do not change directions
 1. Strain mixture into the cake pan
-1. Cook for 1 hour in the oven
+1. Cook for 1 hour and 15 minutes in the oven
 1. Let cool to room temperature
 1. Refridgerate overnight
