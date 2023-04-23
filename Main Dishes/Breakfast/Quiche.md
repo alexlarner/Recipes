@@ -7,7 +7,7 @@ Makes 24 muffin tin quiches or 2 9” pies
 
 * 12 ounces **bacon**
 * 1 pound **breakfast sausage**
-* 1 onion
+* 1 **onion**
     * Or 1 cup **green onions**, chopped, for garnish
         * 4 ounces by weight (generally 2 bundles)
 * 2 large **mild peppers**

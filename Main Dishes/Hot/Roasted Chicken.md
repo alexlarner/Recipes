@@ -3,7 +3,7 @@
 ## Ingredients
 
 - Whole Chicken
-- [**Seasoning Blend of Choice**](Seasonings\)
+- **Seasoning Blend of Choice**
 - 1 **orange**, halved
 - 1 **garlic bulb**, top 1/4 cut off
 

@@ -8,7 +8,7 @@ Makes 7.5 pounds/1 gallon
 
 * 5 pounds **roma tomatoes**
     * About 20 tomatoes
-* 1 onion
+* 1 **onion**
 * 1 **large mild pepper** (i.e. poblano)
 * 1 bulb **garlic**
 * 2 tablespoon **basil**, fresh, chopped

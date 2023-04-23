@@ -12,7 +12,7 @@ Makes 1 9x13 pan
 - 16 ounces **sour cream**
 - 1 cup **heavy cream**
 - 1/4 cup **butter**, melted
-- 2 tablespoons [**Creole seasoning**](Seasonings\Creole Seasonings.md)
+- 2 tablespoons [**Creole seasoning**](Seasonings\Creole%20Seasonings.md)
 
 ## Directions
 
