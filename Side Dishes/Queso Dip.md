@@ -11,7 +11,7 @@ Makes 1 ⅓ quarts
     - About 10 ounces
 - 1/2 cup **milk**
 - 1 pound **ground beef**
-- 3 tablespoons [**taco seasoning**](Seasonings\Taco Seasoning.md)
+- 3 tablespoons [**taco seasoning**](Seasonings/Taco%20Seasoning.md)
 - 1 **onion**
 - 1/2 bulb **garlic**
 - 1 **large pepper** (Poblano/Anaheim/etc.)

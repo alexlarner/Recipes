@@ -9,7 +9,7 @@
 * 1 whole **fennel anise**, shredded
 * 2 large **mild peppers**, chopped
 * 1 **Manzano pepper**
-* 3 cups **chicken broth**
+* 3 cups [**chicken stock**](Ingredients/Stock.md)
 * 2 tablespoons **soy sauce**
 * 1 ½ cups **peanut butter**
 * 2 tablespoons **honey**

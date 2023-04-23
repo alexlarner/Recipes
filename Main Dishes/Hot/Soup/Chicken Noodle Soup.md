@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-* 1 gallon [**chicken stock**](Main Dishes\Ingredients\Stock.md)
+* 1 gallon [**chicken stock**](Ingredients/Stock.md)
 * 2 pounds **chicken**, cooked & diced
 * 12 oz **egg noodles**
 * 1 **lemon**, juiced
