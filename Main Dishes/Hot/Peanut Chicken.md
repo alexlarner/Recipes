@@ -24,10 +24,8 @@
 ## Directions
 
 1. Heat the oil in a wok over medium heat.
-Place chicken in the wok, and cook until juices run clear.
+1. Place chicken in the wok, and cook until juices run clear.
 1. Mix in red bell pepper, and continue cooking until tender.
 1. In a bowl, mix the broth, peanut butter, soy sauce, sugar, garlic, cayenne pepper, and ginger. Pour into the wok.
 1. Toss green onions into wok.
 1. Cook for 10-15 minutes until thickened, and serve over rice
-
-*Original recipe from: http://allrecipes.com/recipe/77685/denises-peanut-chicken/*
