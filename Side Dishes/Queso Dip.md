@@ -14,7 +14,7 @@ Makes 1 ⅓ quarts
 - 3 tablespoons [**taco seasoning**](Seasonings/Taco%20Seasoning.md)
 - 1 **onion**
 - 1/2 bulb **garlic**
-- 1 **large pepper** (Poblano/Anaheim/etc.)
+- 1 **large mild pepper** (Poblano/Anaheim/etc.)
 - 1 10 oz bag of **tortilla chips**
 
 ## Directions
