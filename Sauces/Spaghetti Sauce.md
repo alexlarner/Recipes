@@ -7,26 +7,26 @@ Makes 2 quarts spaghetti
 
 ### Beef
 
-- 1/2 pound ground beef
-- 1/2 pound italian sausage
-- 2 tablespoons soy sauce
-- 1 tablespoon Worcestershire sauce
-- 1 teaspoon salt
-- 1/2 teaspoon black pepper
+- 1/2 pound **ground beef**
+- 1/2 pound **italian sausage**
+- 2 tablespoons **soy sauce**
+- 1 tablespoon **Worcestershire sauce**
+- 1 teaspoon **salt**
+- 1/2 teaspoon **black pepper**
 
 ### Sauce Base
 
-- 4 pounds fresh tomatoes
+- 4 pounds fresh **tomatoes**
     - About 12-16 tomatoes
-- 1/3 cup fresh herbs
-- 1 bay leaf
-- 1 teaspoon salt
-- 1/2 teaspoon fennel seeds
-- 1/4 cup red wine
-- Parmesan wedge rind, optional
-- 1 onion, diced
-- 1 mild pepper (anaheim/poblano/cubanelle/etc.), diced
-- 1 bulb garlic, minced
+- 1/3 cup **fresh herbs** (basil, oregano, parsley, and thyme)
+- 1 **bay leaf**
+- 1 teaspoon **salt**
+- 1/2 teaspoon **fennel seeds**
+- 1/4 cup **red wine**
+- 1 **Parmesan wedge rind**, optional
+- 1 **onion**, diced
+- 1 **mild pepper** (anaheim/poblano/cubanelle/etc.), diced
+- 1 bulb **garlic**, minced
 
 ## Directions
 
