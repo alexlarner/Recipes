@@ -3,7 +3,7 @@
 ## Ingredients
 
 * 8 large **sweet potatoes**
-* 3 quarts **chicken stock**
+* 3 quarts [**chicken stock**](Ingredients/Stock.md)
 * 1/4 cup **chili-only powder**
     * 2 tablespoons **ancho peppers**, ground
     * 2 tablespoons **guajillo peppers**, ground
