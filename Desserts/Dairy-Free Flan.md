@@ -6,7 +6,7 @@
 - 1/4 cup **water**
 - 2 cans **coconut milk**, room temperature
 - 4 **eggs**
-- 8 egg yolks
+- 8 **egg yolks**
 - 1/2 cup **coconut sugar**
 
 ## Directions
