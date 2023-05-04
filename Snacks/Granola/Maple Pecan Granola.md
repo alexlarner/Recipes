@@ -13,7 +13,7 @@
 - 1 teaspoon **allspice**, freshly ground
 - 1 teaspoon **nutmeg**, freshly ground
     - About 1 small whole nutmeg
-- 2 teaspoons **coarse kosher salt**
+- 1/2 tablespoon **coarse kosher salt**
 - 1 cup pure **maple syrup**
 - 3 ounces **coconut oil**, melted
     - About 1/2 cup
