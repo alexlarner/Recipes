@@ -12,7 +12,7 @@
     - About 1/2 cup
 - 1 tablespoon **ground ginger**
 - 1 tablespoon **cardamom**, freshly ground
-- 2 teaspoons **coarse kosher salt**
+- 1/2 tablespoon **coarse kosher salt**
 - 1 cup **coconut syrup**
 - 3 ounces **coconut oil**, melted
     - About 1/2 cup
