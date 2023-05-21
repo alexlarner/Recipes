@@ -4,18 +4,18 @@ Makes 9 pounds (1 gallon)
 
 ## Ingredients
 
-- 5 pounds red potatoes, chopped
-- 3 cups [mayonnaise](Sauces\Mayonnaise.md)
-- 2 cups pickles, minced
-- 10 large hard-cooked eggs, diced
-- 1 cup daikon radishes, diced
-- 1 small red onion, diced
-- 1/2 cup celery, diced
-- 2 ounces green onions, sliced
-- 3 tablespoons prepared mustard
-- 1 tablespoon apple cider/white wine vinegar
-- 1 teaspoon salt
-- 1/2 teaspoon ground black pepper
+- 5 pounds **red potatoes**, roughly chopped
+- 3 cups [**mayonnaise**](Sauces\Mayonnaise.md)
+- 2 cups **pickles**, minced
+- 10 large **hard-boiled eggs**, diced
+- 1 cup **daikon radishes**, diced
+- 1 small **red onion**, diced
+- 1/2 cup **celery**, diced
+- 2 ounces **green onions**, sliced
+- 3 tablespoons **prepared mustard**
+- 1 tablespoon **apple cider/white wine vinegar**
+- 1 teaspoon **salt**
+- 1/2 teaspoon **black pepper**, ground
 
 ## Directions
 

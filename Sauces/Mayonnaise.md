@@ -2,13 +2,13 @@
 
 ## Ingredients
 
-- 2 whole eggs
-- 1 tablespoons white wine vinegar
-- 1 tablespoons balsamic vinegar
-- 1/2 teaspoon dry mustard
-- 1/2 teaspoon salt
-- 1/2 teaspoon garlic powder (optional)
-- 16 ounces avocado oil or filtered olive oil
+- 2 **whole eggs**
+- 1 tablespoons **white wine vinegar**
+- 1 tablespoons **balsamic vinegar**
+- 1/2 teaspoon **dry mustard**
+- 1/2 teaspoon **salt**
+- 1/2 teaspoon **garlic powder**
+- 16 ounces **avocado oil** or **filtered olive oil**
 
 ## Directions
 
