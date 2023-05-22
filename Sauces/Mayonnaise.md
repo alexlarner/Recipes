@@ -3,8 +3,8 @@
 ## Ingredients
 
 - 2 **whole eggs**
-- 1 tablespoons **white wine vinegar**
-- 1 tablespoons **balsamic vinegar**
+- 1 tablespoon **white wine vinegar**
+- 1 tablespoon **balsamic vinegar**
 - 1/2 teaspoon **dry mustard**
 - 1/2 teaspoon **salt**
 - 1/2 teaspoon **garlic powder**
