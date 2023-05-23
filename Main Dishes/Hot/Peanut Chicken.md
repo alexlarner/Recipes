@@ -8,7 +8,6 @@
 - 1 ½ cups **peanut butter**
 - 2 tablespoons **soy sauce**
 - 2 tablespoons **honey**
-- 1 tablespoon **dry ginger**
 - Zest and juice of 1 **lime**
 - ½ pound **daikon radishes**, shredded (large)
 - ½ pound **carrots**, shredded (large)
