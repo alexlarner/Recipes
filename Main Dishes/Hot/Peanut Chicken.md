@@ -8,7 +8,7 @@
 - 1 ½ cups **peanut butter**
 - 2 tablespoons **soy sauce**
 - 2 tablespoons **honey**
-- Zest and juice of 1 **lime**
+- Zest and juice of 2 **limes**
 - ½ pound **daikon radishes**, shredded (large)
 - ½ pound **carrots**, shredded (large)
     - About 3 medium carrots
