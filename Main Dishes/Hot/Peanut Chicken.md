@@ -8,17 +8,14 @@
 - 1 ½ cups **peanut butter**
 - 2 tablespoons **soy sauce**
 - 2 tablespoons **honey**
-- Zest and juice of 2 **limes**
-- ½ pound **daikon radishes**, shredded (large)
+- Zest and juice of 3 **limes**
 - ½ pound **carrots**, shredded (large)
-    - About 3 medium carrots
-- 1 whole **fennel anise**, shredded (Optional)
+- 1 whole **fennel bulb**, shredded (Optional)
+    - Or 1 cup **green onions**, chopped, for garnish
+        - Seperate the green & white parts of the onions
+        - 4 ounces by weight (generally 2 bundles)
 - 2 large **mild peppers** (poblano, anaheim, cubanelle, etc.), chopped
-- 1 **Manzano pepper**
-- 1 cup **green onions**, chopped, for garnish
-    - Seperate the green & white parts of the onions
-    - 4 ounces by weight (generally 2 bundles)
-        - If using fennel, cut amount of green onions in half at least
+- 4 medium heat peppers (jalapeno, serrano, etc.)
 - 6 cups **cooked rice** or 8 oz **rice noodles**, cooked
     - Noodle weight is dry weight before cooking
 
