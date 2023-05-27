@@ -14,6 +14,7 @@
 - 1/2 teaspoon salt
 - 1/4 teaspoon baking powder
 - 1/2 cup shredded/flaked coconut
+- 1/4 cup flaked coconut
 
 ## Directions
 
@@ -23,7 +24,8 @@
 1. In a separate bowl, combine dry ingredients, except shredded/flaked coconut
 1. Stir batter until only slightly clumpy, preferably by hand, to prevent overmixing
 1. Add shredded coconut and stir until no flour clumps are visible
-1. Divide batter into prepared pans.
-1. Bake for 65 minutes.
+1. Pour batter into loaf pan.
+1. Sprinlle 1/4 cup flaked coconut over batter.
+1. Bake for 70 minutes.
     1. For muffins, bake at 350 for 20 mins
     1. For mini loafs, bake at 350 for 30 minutes
