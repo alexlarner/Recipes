@@ -3,6 +3,7 @@
 ## Ingredients
 
 - 2 pounds **chicken thighs**
+    - Or 1 pound chicken thighs and 6 fried eggs, sliced
 - 3 tablespoons **Chinese Five Spice**
 - 3 cups [**chicken stock**](Ingredients/Stock.md)
 - 1 ½ cups **peanut butter**
