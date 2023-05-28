@@ -2,24 +2,24 @@
 
 ## Ingredients
 
-- 1/2 pound fresh pumpkin puree
-    - About 1/2 small pie pumpkin
-- 1 1/4 cups sugar
-- 1/4 pound butter, melted
-- 2 eggs
-- 2 cups flour
-- 1 teaspoons baking soda
-- 1/2 teaspoons salt
-- 1/4 teaspoon baking powder
-- 1 teaspoon ginger, ground
-- 1/2 teaspoon allspice, freshly ground
-- 1/2 teaspoon cinnamon, freshly ground
+- 1/2 pound **pumpkin puree**, fresh
+    - About 1/2 **small pie pumpkin**
+- 1 1/4 cups **coconut sugar**
+- 1/4 pound **butter**, melted
+- 2 **eggs**
+- 2 cups **flour**
+- 1 teaspoons **baking soda**
+- 1/2 teaspoons **salt**
+- 1/4 teaspoon **baking powder**
+- 1 teaspoon **ginger**, ground
+- 1/2 teaspoon **allspice**, freshly ground
+- 1/2 teaspoon **cinnamon**, freshly ground
     - About 1/2 6" stick
-- 1/2 teaspoons cloves, freshly ground
-- 1/4 teaspoon cardamom, freshly ground
-- 1/2 teaspoon nutmeg, freshly ground
+- 1/2 teaspoons **cloves**, freshly ground
+- 1/4 teaspoon **cardamom**, freshly ground
+- 1/2 teaspoon **nutmeg**, freshly ground
     - About 1/3 whole nutmeg
-- 1/4 cup pecans, toasted, optional
+- 1/4 cup **pecans**, toasted, optional
 
 ## Directions
 
