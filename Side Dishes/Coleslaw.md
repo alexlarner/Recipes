@@ -11,7 +11,7 @@ Makes 8 cups
 - 1 **beet**, shredded
 - 1 12 ounce can **pickled baby corn**, drained
 - 2 cups [**mayonnaise**](Sauces\Mayonnaise.md)
-- 1/3 cup **sugar**, optional
+- 1/3 cup **sugar** (Optional)
 - 1/4 cup **apple cider vinegar**
 - 2 teaspoons **celery salt**
 - 2 teaspoons **onion powder**

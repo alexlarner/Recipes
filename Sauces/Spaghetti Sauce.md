@@ -23,7 +23,7 @@ Makes 2 quarts spaghetti
 - 1 teaspoon **salt**
 - 1/2 teaspoon **fennel seeds**
 - 1/4 cup **red wine**
-- 1 **Parmesan wedge rind**, optional
+- 1 **Parmesan wedge rind** (Optional)
 - 1 **onion**, diced
 - 1 **mild pepper** (anaheim/poblano/cubanelle/etc.), diced
 - 1 bulb **garlic**, minced

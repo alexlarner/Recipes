@@ -12,7 +12,7 @@ Makes 1 Quart
 - 1 teaspoon **salt**
 - 4 cloves **garlic**, roasted or raw
 - 2 tablespoons **olive oil**
-- 1/2 ounce **dried ancho peppers**, optional
+- 1/2 ounce **dried ancho peppers** (Optional)
 
 ## Directions
 

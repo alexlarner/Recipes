@@ -17,7 +17,7 @@
 - 3 ounces **coconut oil**, melted
     - About 1/2 cup
 - 2 **egg whites**
-- 1 cup **white chocolate chips**, optional
+- 1 cup **white chocolate chips** (Optional)
 
 ## Directions
 
