@@ -1,23 +1,25 @@
 # BBQ Seasoning
 
-*Makes 5 cups*
+*Makes 6 cups*
 
 ## Ingredients
 
-* 1 1/4 cups **coconut sugar**
-* 1 cup **paprika**
-* 1/3 cup **onion powder**
-* 1/3 cup **garlic powder**
-* 1/4 cup **salt**
-* 1/4 cup **basil**, dried
-* 0.5 ounces **bay leaves**
-* 2 tablespoons **savory**
-* 2 tablespoons **thyme**
-* 3 tablespoons **mustard seeds**
-* 2 tablespoons **coriander**, whole
-* 2 tablespoons **black peppercorns**
-* 2 tablespoons **white peppercorns**
-* 1 teaspoons **cumin seed**
+- 2 cups **maple sugar**
+    - Coconut sugar can be used instead, but will have a slight bitter aftertase
+- 1 cup **paprika**
+    - Do **not** use smoked paprika instead
+- 1/3 cup **onion powder**
+- 1/3 cup **garlic powder**
+- 1/4 cup **salt**
+- 1/4 cup **basil**, dried
+- 0.5 ounces **bay leaves**
+- 2 tablespoons **savory**
+- 2 tablespoons **thyme**
+- 3 tablespoons **mustard seeds**
+- 2 tablespoons **coriander**, whole
+- 2 tablespoons **black peppercorns**
+- 2 tablespoons **white peppercorns**
+- 1 teaspoons **cumin seed**
 
 ## Directions
 
