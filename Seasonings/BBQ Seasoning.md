@@ -1,6 +1,6 @@
 # BBQ Seasoning
 
-*Makes 6 cups*
+Makes 6 cups
 
 ## Ingredients
 
