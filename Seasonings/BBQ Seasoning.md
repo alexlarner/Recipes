@@ -12,7 +12,8 @@ Makes 6 cups
 - 1/3 cup **garlic powder**
 - 1/4 cup **salt**
 - 1/4 cup **basil**, dried
-- 0.5 ounces **bay leaves**
+- 0.5 ounces **bay leaves**, ground
+    - About 3 tablespoons
 - 2 tablespoons **savory**
 - 2 tablespoons **thyme**
 - 3 tablespoons **mustard seeds**
