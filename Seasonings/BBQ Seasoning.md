@@ -17,6 +17,7 @@ Makes 6 cups
 - 2 tablespoons **savory**
 - 2 tablespoons **thyme**
 - 3 tablespoons **mustard seeds**
+    - Or 1/3 cup **dry mustard**
 - 2 tablespoons **coriander**, whole
 - 2 tablespoons **black peppercorns**
 - 2 tablespoons **white peppercorns**
