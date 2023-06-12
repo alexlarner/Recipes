@@ -4,7 +4,7 @@ Makes 1 9"x5" loaf
 
 ## Ingredients
 
-- 1 (14 ounce can) **Coconut Milk**
+- 1 (14 ounce can) **coconut milk**
 - 1/3 cup **water**
 - 1/4 pound **coconut oil** (by weight), melted
 - 2 **eggs**

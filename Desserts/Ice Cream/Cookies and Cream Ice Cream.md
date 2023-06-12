@@ -1,13 +1,12 @@
-# Peanut Butter Ice Cream
-
-Makes 1 1/2 quarts
+# Cookies & Cream Ice Cream
 
 ## Ingredients
 
-- 2 cups **heavy cream**
 - 2 cups **milk**
-- 1 cup **brown sugar**
-- 1 cup **smooth peanut butter**
+- 2 cups **heavy cream**
+- 1 cup **Oreos**, smashed into crumbs with a few larger pieces
+    - About half of a 13 ounce package
+- 1/2 cup **sugar**
 
 ## Directions
 
