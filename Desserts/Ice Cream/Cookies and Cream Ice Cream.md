@@ -1,5 +1,7 @@
 # Cookies & Cream Ice Cream
 
+Makes alost 1 1/2 quarts
+
 ## Ingredients
 
 - 2 cups **milk**

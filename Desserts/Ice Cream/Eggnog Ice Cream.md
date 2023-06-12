@@ -1,13 +1,13 @@
-# Peanut Butter Ice Cream
+# Eggnog Ice Cream
 
-Makes 1 1/2 quarts
+Makes a little over a quart
 
 ## Ingredients
 
-- 2 cups **heavy cream**
-- 2 cups **milk**
-- 1 cup **coconut sugar**
-- 1 cup **smooth peanut butter**
+- 2 cups [**eggnog**](Drinks\Eggnog.md)
+- 1 cup **heavy cream**
+- 1 cup **milk**
+- 1/2 cup **coconut sugar**
 
 ## Directions
 
