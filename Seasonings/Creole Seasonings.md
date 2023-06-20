@@ -1,19 +1,19 @@
 # Creole Seasoning
 
-*Makes 2 1/2 cups*
+*Makes 5 cups*
 
 ## Ingredients
 
-* 1/2 cup and 2 tablespoons **paprika**
-* 1/3 cup **salt**
-* 1/4 cup **onion powder**
-* 1/4 cup **garlic powder**
-* 1/4 cup **oregano**, dried
-* 1/4 cup **basil**, dried
-* 2 tablespoon **thyme**, dried
-* 2 tablespoon **black peppercorns**
-* 2 tablespoon **white peppercorns**
-* 1 tablespoon **cayenne pepper**
+* 1 1/4 cups **paprika**
+* 2/3 cup **salt**
+* 1/2 cup **onion powder**
+* 1/2 cup **garlic powder**
+* 1/2 cup **oregano**, dried
+* 1/2 cup **basil**, dried
+* 1/4 cup **thyme**, dried
+* 1/4 cup **black peppercorns**
+* 1/4 cup **white peppercorns**
+* 2 tablespoons **cayenne pepper**
 
 ## Directions
 
