@@ -8,7 +8,7 @@ Makes 6 1/2 cup Pancakes
 - 2/3 cup **coconut flour**
 - 2 tablespoons **baking powder**
 - 1 13.5 ounce can **coconut cream**
-- 2/3 cup strawberry juice
+- 1 1/3 cup strawberry juice
 - 2.5 ounces (by weight) **coconut oil**, melted
 - 1/4 cups **coconut syrup**
 - 2 **eggs**
