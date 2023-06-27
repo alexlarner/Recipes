@@ -6,9 +6,9 @@
 - 1 cup **pecans**, chopped
 - 1/2 cup **pecan flour**
 - 1 cup **seeds** (flax/pumpkin/sunflower)
-- 0.75 ounces **Korintje/Saigon cinnamon**, freshly ground
-    - About 8 sticks
-    - About 1/4 cup
+- 1 ounce **Korintje/Saigon cinnamon**, freshly ground
+    - About 12 sticks
+    - About 1/3 cup
 - 1 teaspoon **cloves**, freshly ground
 - 1 teaspoon **allspice**, freshly ground
 - 1 teaspoon **nutmeg**, freshly ground
