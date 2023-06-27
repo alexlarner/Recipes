@@ -13,7 +13,8 @@ Makes 1 9"x5" loaf
 - 1 teaspoon **baking soda**
 - 1/2 teaspoons **salt**
 - 1/4 teaspoon **baking powder**
-- 1/2 tablespoon **cinnamon**, freshly ground
+- 0.1 ounces **cinnamon**, freshly ground
+    - About 1/2 tablespoon
     - About 2 6" sticks
 - 1/4 teaspoon **nutmeg**, freshly ground
     - About 1/4 **whole nutmeg**
