@@ -22,11 +22,13 @@ Makes 1 9"x5" loaf
 
 ### Streusel Topping (Optional)
 
-- 1/2 cup coconut sugar
+- 1/2 cup **coconut sugar**
 - 1/4 cup **flour** or **gluten-free flour**
+- 2 tablespoons **rolled oats**
 - 2 tablespoons **butter** or **coconut oil**, chilled
-- 1 teaspoon cinnamon
-- 1 pinch salt
+- 2 tablespoons **walnuts** or **pecans**
+- 1 teaspoon **cinnamon**
+- 1 pinch **salt**
 
 ## Directions
 
