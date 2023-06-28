@@ -1,6 +1,10 @@
 # Banana Bread
 
-Makes 1 9"x5" loaf
+Makes one of these:
+
+- 1 9"x5" loaf
+- 1 dozen 1/3 cup muffins
+- 6 jumbo muffins
 
 ## Ingredients
 
@@ -22,12 +26,12 @@ Makes 1 9"x5" loaf
 
 ### Streusel Topping (Optional)
 
-- 1/2 cup **coconut sugar**
-- 1/4 cup **flour** or **gluten-free flour**
-- 2 tablespoons **rolled oats**
-- 2 tablespoons **butter** or **coconut oil**, chilled
-- 2 tablespoons **walnuts** or **pecans**
-- 1 teaspoon **cinnamon**
+- 1/4 cup **coconut sugar**
+- 2 tablespoons **flour** or **gluten-free flour**
+- 1 tablespoon **rolled oats**
+- 1 tablespoon **butter** or **coconut oil**, chilled
+- 1 tablespoon **walnuts** or **pecans**
+- 1/2 teaspoon **cinnamon**
 - 1 pinch **salt**
 
 ## Directions
