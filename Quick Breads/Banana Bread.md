@@ -11,11 +11,9 @@ Makes one of these:
 - 5 medium overripe **bananas**, mashed
     - About 2 pounds
 - 3/4 cup **coconut sugar**
-- 1/4 pound **butter**, **coconut oil**, or **bacon grease**, melted
+- 1/4 pound **butter/coconut oil**, melted
     - About 1/2 cup
-- 1/4 cup **peanut butter** (Optional)
 - 2 **eggs**
-- 1 ounce **dark rum**
 - 2 cups **flour** or **gluten-free flour**
 - 1 teaspoon **baking soda**
 - 1/2 teaspoons **salt**
@@ -25,24 +23,36 @@ Makes one of these:
     - About 2 6" sticks
 - 1/4 teaspoon **nutmeg**, freshly ground
     - About 1/4 **whole nutmeg**
-- 1/4 cup **pecans** or **walnuts**, toasted (Optional)
+- 1/4 cup **walnuts/pecans**, toasted (Optional)
 
 ### Streusel Topping (Optional)
 
 - 1/4 cup **coconut sugar**
-- 1/4 cup **bacon**, chopped (Optional)
-- 2 tablespoons **flour** or **gluten-free flour**
+- 2 tablespoons **flour/gluten-free flour**
 - 1 tablespoon **rolled oats**
-- 1 tablespoon **butter**, **coconut oil**, or **bacon grease** chilled
-- 1 tablespoon **walnuts** or **pecans**, toasted
 - 1/2 teaspoon **cinnamon**
 - 1 pinch **salt**
+- 1 tablespoon **butter/coconut oil**, chilled
+- 1 tablespoon **walnuts/pecans**, toasted and chopped
+
+### Peanut Butter Bacon Variant
+
+- Replace:
+		- **butter/coconut oil** with **bacon grease** in batter & streusel topping
+		- **walnuts/pecans** with **peanuts**
+- Add:
+		- Batter - Wet Ingredients
+				- 1/2 cup **peanut butter**
+						- If using **crunchy** peanut butter, do not add other nuts to the batter
+				- 2 ounces dark rum
+		- Streusel Topping
+				- 1/4 cup **bacon**, cooked crispy & chopped
 
 ## Directions
 
 1. Preheat oven to 325 F
-1. Grease one 9”x5” loaf pan
-1. Combine wet ingredients
+1. Grease one 9”x5” loaf pan/muffin pan/jumbo muffin pan
+1. Blend wet ingredients & sugar together in a food processor/blender
 1. Combine dry ingredients and sift
 1. If using walnuts or pecans, add them to the sifted **dry** ingredients
 1. Add dry ingredients to wet ingredients and mix until no clumps of dry ingredients are seen
