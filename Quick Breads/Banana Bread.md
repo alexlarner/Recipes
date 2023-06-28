@@ -38,15 +38,15 @@ Makes one of these:
 ### Peanut Butter Bacon Variant
 
 - Replace:
-		- **butter/coconut oil** with **bacon grease** in batter & streusel topping
-		- **walnuts/pecans** with **peanuts**
+	- **butter/coconut oil** with **bacon grease** in batter & streusel topping
+	- **walnuts/pecans** with **peanuts**
 - Add:
-		- Batter - Wet Ingredients
-				- 1/2 cup **peanut butter**
-						- If using **crunchy** peanut butter, do not add other nuts to the batter
+	- Batter - Wet Ingredients
+			- 1/2 cup **peanut butter**
+					- If using **crunchy** peanut butter, do not add other nuts to the batter
 				- 2 ounces dark rum
-		- Streusel Topping
-				- 1/4 cup **bacon**, cooked crispy & chopped
+	- Streusel Topping
+			- 1/4 cup **bacon**, cooked crispy & chopped
 
 ## Directions
 
