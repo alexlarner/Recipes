@@ -11,8 +11,11 @@ Makes one of these:
 - 5 medium overripe **bananas**, mashed
     - About 2 pounds
 - 3/4 cup **coconut sugar**
-- 1/4 pound **butter** or **coconut oil**, melted
+- 1/4 pound **butter**, **coconut oil**, or **bacon grease**, melted
+    - About 1/2 cup
+- 1/4 cup **peanut butter** (Optional)
 - 2 **eggs**
+- 1 ounce **dark rum**
 - 2 cups **flour** or **gluten-free flour**
 - 1 teaspoon **baking soda**
 - 1/2 teaspoons **salt**
@@ -27,10 +30,11 @@ Makes one of these:
 ### Streusel Topping (Optional)
 
 - 1/4 cup **coconut sugar**
+- 1/4 cup **bacon**, chopped (Optional)
 - 2 tablespoons **flour** or **gluten-free flour**
 - 1 tablespoon **rolled oats**
-- 1 tablespoon **butter** or **coconut oil**, chilled
-- 1 tablespoon **walnuts** or **pecans**
+- 1 tablespoon **butter**, **coconut oil**, or **bacon grease** chilled
+- 1 tablespoon **walnuts** or **pecans**, toasted
 - 1/2 teaspoon **cinnamon**
 - 1 pinch **salt**
 
