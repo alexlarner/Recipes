@@ -65,5 +65,5 @@ Makes one of these:
     1. Pulse all ingredients in a food processor until small crumbs form
     1. Generously sprinkle topping over the pan
 1. Bake in a preheated oven until a toothpick comes out clean, about 75-80 minutes
-    1. For muffins, bake for 20 minutes at 365 F
+    1. For muffins, bake for 20-25 minutes at 365 F
     1. For mini loafs, bake for 30 minutes at 350 F
