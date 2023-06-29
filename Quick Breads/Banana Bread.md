@@ -50,7 +50,8 @@ Makes one of these:
     - Batter - Wet Ingredients
         - 1/2 cup **peanut butter**
             - If using **crunchy** peanut butter, do not add other nuts to the batter
-        - 2 ounces dark rum
+            - If using unsweetened peanut butter, add 2 extra tablespoons of coconut sugar to the batter.
+        - 1 ounce dark rum
 
 ## Directions
 
