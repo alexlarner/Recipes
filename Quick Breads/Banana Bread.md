@@ -8,6 +8,8 @@ Makes one of these:
 
 ## Ingredients
 
+### Batter
+
 - 5 medium overripe **bananas**, mashed
     - About 2 pounds
 - 3/4 cup **coconut sugar**
@@ -37,16 +39,18 @@ Makes one of these:
 
 ### Peanut Butter Bacon Variant
 
-- Replace:
-	- **butter/coconut oil** with **bacon grease** in batter & streusel topping
-	- **walnuts/pecans** with **peanuts**
-- Add:
-	- Batter - Wet Ingredients
-			- 1/2 cup **peanut butter**
-					- If using **crunchy** peanut butter, do not add other nuts to the batter
-				- 2 ounces dark rum
-	- Streusel Topping
-			- 1/4 cup **bacon**, cooked crispy & chopped
+- Remove
+    - **Walnuts/Pecans** from batter
+- Replace
+    - **Butter/Coconut oil** with **bacon grease**
+        - Replace in equal parts in batter
+        - Replace **2** tablespoons with **1** tablespoon in streusel topping
+    - **Walnuts/Pecans** with 1/2 cup **bacon**, cooked crispy
+- Add
+    - Batter - Wet Ingredients
+        - 1/2 cup **peanut butter**
+            - If using **crunchy** peanut butter, do not add other nuts to the batter
+        - 2 ounces dark rum
 
 ## Directions
 
