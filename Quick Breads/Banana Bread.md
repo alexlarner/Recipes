@@ -46,6 +46,7 @@ Makes one of these:
         - Replace in equal parts in batter
         - Replace **2** tablespoons with **1** tablespoon in streusel topping
     - **Walnuts/Pecans** with 1/2 cup **bacon**, cooked crispy
+        - About 6 ounces raw bacon
 - Add
     - Batter - Wet Ingredients
         - 1/2 cup **peanut butter**
