@@ -9,10 +9,12 @@
 - 1/2 tablespoon **baking soda**
 - 1 teaspoon **salt**
 - 2 cups **fresh blueberries**
+    - About 0.8 pounds
 - 1 cup **buttermilk/coconut milk**
     - If using **coconut flour** increase **buttermilk/coconut milk** by 1/2 cup
 - 1 cup **coconut sugar**
 - 2/3 cup **butter/coconut oil**, melted
+    - About 4.5 ounces **coconut oil**
 - 2 **eggs**
 
 ### Streusel Topping (Optional)
