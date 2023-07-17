@@ -17,10 +17,10 @@
 
 ### Streusel Topping (Optional)
 
-1/3 cup **coconut sugar**
-2 tablespoons **flour** or **gluten-free flour**
-1 tablespoon **butter/coconut oil**
-1/2 teaspoon **cinnamon**
+- 1/3 cup **coconut sugar**
+- 2 tablespoons **flour** or **gluten-free flour**
+- 1 tablespoon **butter/coconut oil**
+- 1/2 teaspoon **cinnamon**
 
 ## Directions
 
