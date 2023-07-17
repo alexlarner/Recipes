@@ -16,6 +16,7 @@
 - 2/3 cup **butter/coconut oil**, melted
     - About 4.5 ounces **coconut oil**
 - 2 **eggs**
+- 1 tablespoon **lemon zest powder**
 
 ### Streusel Topping (Optional)
 
@@ -30,7 +31,7 @@
     1. For muffins: 365 F
     1. For mini loafs: 350 F
 1. Grease one 9”x5” loaf pan/muffin pan/jumbo muffin pan
-1. Blend wet ingredients & sugar together in a food processor/blender
+1. Blend wet ingredients, sugar, and lemon zest powder together in a food processor/blender
 1. Combine dry ingredients and sift
 1. Add blueberries to the sifted **dry** ingredients
 1. Add dry ingredients to wet ingredients and mix until no clumps of dry ingredients are seen
