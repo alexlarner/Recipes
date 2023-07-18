@@ -1,21 +1,27 @@
 # Blueberry Bread
 
+Makes one of these:
+
+- 1 9"x5" loaf
+- 1 dozen 1/3 cup muffins
+- 6 jumbo muffins
+
 ## Ingredients
 
-- 3 cups **flour**, or:
-    - 2 1/2 cups **gluten-free flour**
-    - 1/2 cup **coconut flour**
-- 1 tablespoon **baking powder**
-- 1/2 tablespoon **baking soda**
-- 1 teaspoon **salt**
-- 2 cups **fresh blueberries**
-    - About 0.8 pounds
-- 1 cup **buttermilk/coconut milk**
-    - If using **coconut flour** increase **buttermilk/coconut milk** by 1/2 cup
-- 1 cup **coconut sugar**
-- 2/3 cup **butter/coconut oil**, melted
-    - About 4.5 ounces **coconut oil**
-- 2 **eggs**
+- 1 1/2 cups **flour**, or:
+    - 1 1/4 cups **gluten-free flour**
+    - 1/4 cup **coconut flour**
+- 1/2 tablespoon **baking powder**
+- 1 teaspoon **baking soda**
+- 1/2 teaspoon **salt**
+- 1 cup **fresh blueberries**
+    - About 0.4 pounds
+- 1 cup **buttermilk/canned coconut milk**
+    - If using **coconut flour** increase **buttermilk/canned coconut milk** by 1/4 cup
+- 1/2 cup **coconut sugar**
+- 1/3 cup **butter/coconut oil**, melted
+    - About 2.25 ounces **coconut oil**
+- 1 **egg**
 - 1 tablespoon **lemon zest powder**
 
 ### Streusel Topping (Optional)
