@@ -22,7 +22,7 @@ Makes one of these:
 - 1/3 cup **butter/coconut oil**, melted
     - About 2.25 ounces **coconut oil**
 - 1 **egg**
-- 1 tablespoon **lemon zest powder**
+- 1/2 tablespoon **lemon zest powder**
 
 ### Streusel Topping (Optional)
 
