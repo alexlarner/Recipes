@@ -6,11 +6,13 @@ Makes 1 9"x5" loaf
 
 - 1/2 pound **pumpkin puree**, fresh
     - About 1/2 **small pie pumpkin**
-- 1 1/4 cups **coconut sugar**
+- 1 cup **maple syrup**
+- 1/4 cup **baking molasses**
 - 1/4 pound **butter** or **coconut oil**, melted
     - Or 1/2 cup **olive oil**
 - 2 **eggs**
-- 2 cups **flour** or **gluten-free flour**
+- 2 1/4 cups **whole wheat pastry flour**
+    - Or 1 3/4 cups **gluten-free flour** and 1/4 cup coconut flour
 - 1 teaspoon **baking soda**
 - 1/2 teaspoon **salt**
 - 1/4 teaspoon **baking powder**
@@ -19,10 +21,21 @@ Makes 1 9"x5" loaf
 - 1/2 teaspoon **cinnamon**, freshly ground
     - About 1/2 6" stick
 - 1/2 teaspoons **cloves**, freshly ground
-- 1/4 teaspoon **cardamom**, freshly ground
 - 1/2 teaspoon **nutmeg**, freshly ground
     - About 1/3 **whole nutmeg**
+- 1/4 teaspoon **cardamom**, freshly ground
 - 1/4 cup **pecans**, toasted (Optional)
+
+### Refined Sugar Variant
+
+- Replace **maple syrup** with equal amounts of **white sugar**
+- Use 2 cups **whole wheat pastry flour** or **gluten-free flour**
+
+## Regular Pumpkin Bread variant
+
+- Replace **molasses** with **maple syrup**
+- Halve the amount of **ginger**
+- Add 1/2 teaspoon **mace**
 
 ## Directions
 
