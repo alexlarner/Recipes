@@ -7,6 +7,8 @@ Makes 1 9"x5" loaf
 - 1/2 pound **pumpkin puree**, fresh
     - About 1/2 **small pie pumpkin**
 - 1 cup **maple syrup**
+- 1/2 cup **water**
+    - Only if you are using gluten-free flour & coconut flour
 - 1/4 cup **baking molasses**
 - 1/4 pound **butter** or **coconut oil**, melted
     - Or 1/2 cup **olive oil**
