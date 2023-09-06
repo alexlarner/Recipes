@@ -19,13 +19,13 @@ Makes 1 9"x5" loaf
 - 1/2 teaspoon **salt**
 - 1/4 teaspoon **baking powder**
 - 1 teaspoon **ginger**, ground
-- 1/2 teaspoon **allspice**, freshly ground
+- 1/2 teaspoon **cardamom**, freshly ground
 - 1/2 teaspoon **cinnamon**, freshly ground
     - About 1/2 6" stick
-- 1/2 teaspoons **cloves**, freshly ground
 - 1/2 teaspoon **nutmeg**, freshly ground
     - About 1/3 **whole nutmeg**
-- 1/4 teaspoon **cardamom**, freshly ground
+- 1/4 teaspoon **allspice**, freshly ground
+- 1/4 teaspoons **cloves**, freshly ground
 - 1/4 cup **pecans**, toasted (Optional)
 
 ### Refined Sugar Variant
