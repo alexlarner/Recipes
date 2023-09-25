@@ -9,3 +9,7 @@
 - 2 ounces lemon juice, fresh
 - 2 teaspoons chili powder
 - 2 teaspoons salt
+
+
+## Directions
+
