@@ -10,6 +10,6 @@
 - 2 teaspoons chili powder
 - 2 teaspoons salt
 
-
 ## Directions
 
+1. Put everything in a food processor and pulse until preferred consistency is reached.
