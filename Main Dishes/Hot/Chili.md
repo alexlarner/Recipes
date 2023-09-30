@@ -10,15 +10,18 @@
 - 2 pounds **roma tomatoes**, fresh, diced
 - 1 15 oz **can of corn**
 - 2 pounds **ground beef**
-- 4 mild **peppers** (poblano, cubanelle, anaheim, etc.)
-- 2 **manzano peppers**
-- 2 **onions**, diced
+- 1 pound mild **peppers** (poblano, cubanelle, anaheim, etc.)
+- 1 pound **onions**, diced
+    - About 3 medium **onions**
 - 1 **garlic bulb**, pressed/minced
-- 2 tablespoons [**chili powder**](Seasonings\Chili%20Powder.md)
-- 4 teaspoons **cumin**
-- 4 teaspoons **garlic powder**
-- 2 tablespoons **salt**
-- ¼ cup **fresh dill**, minced
+- 0.7 ounces [**chili powder**](Seasonings\Chili%20Powder.md)
+    - Or 2 tablespoons
+- 0.3 ounces **cumin**, freshly ground
+    - Or 1 tablespoon
+- 0.5 ounces **garlic powder**
+    - 1 tablespoon
+- 1.2 ounces **salt**
+    - 2 tablespoons
 
 ## Directions
 
