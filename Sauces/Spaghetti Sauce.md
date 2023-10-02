@@ -18,7 +18,14 @@ Makes 2 quarts spaghetti
 
 - 4 pounds fresh **tomatoes**
     - About 12-16 tomatoes
-- 1/3 cup **fresh herbs** (basil, oregano, parsley, and thyme)
+- 2 tablespoons **basil**, fresh
+    - Or 2 teaspoons **basil**, dried
+- 2 Tablespoons **oregano**, fresh
+    - Or 2 teaspoons **oregano**, dried
+- 2 Tablespoons **parsley**, fresh
+    - Or 2 teaspoons **parsley**, dried
+- 2 Tablespoons **thyme**, fresh
+    - Or 2 teaspoons **thyme**, dried
 - 1 **bay leaf**
 - 1 teaspoon **salt**
 - 1/2 teaspoon **fennel seeds**
