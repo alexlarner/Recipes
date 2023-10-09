@@ -5,10 +5,10 @@ Makes 8 cups
 
 ## Ingredients
 
-- 1 small **red cabbage**, shredded
+- 3 pounds **red cabbage**, shredded
 - 2 pounds **daikon radishes**, shredded
-- 6 medium **carrots**, shredded
-- 1 **beet**, shredded
+- 1 pound **carrots**, shredded
+- 1 **beet**, shredded (optional)
 - 1 12 ounce can **pickled baby corn**, drained
 - 2 cups [**mayonnaise**](Sauces\Mayonnaise.md)
 - 1/3 cup **sugar** (Optional)
