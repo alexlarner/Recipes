@@ -13,9 +13,9 @@ Makes 8 cups
 - 2 cups [**mayonnaise**](Sauces\Mayonnaise.md)
 - 1/4 cup **honey**
 - 1/4 cup **apple cider vinegar**
-- 2 teaspoons **celery salt**
-- 2 teaspoons **onion powder**
-- 2 teaspoons **garlic powder**
+- 1 tablespoon **celery salt**
+- 1 tablespoon **onion powder**
+- 1 tablespoon **garlic powder**
 
 ## Directions
 
