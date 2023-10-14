@@ -4,16 +4,18 @@
 
 ## Ingredients
 
-* 2 lbs **chicken thighs**
-* 2 cups **mayo**
-* 1/3 cup **vinegar**
-    * Preferably half white wine vinegar & half balsamic vinegar
-* 2 **celery hearts**, diced
-* 1 pound **green grapes**, diced or halved
-* 1 1/2 cups **pecans**, toasted
-* 2 teaspoons **garlic powder**
-* 2 teaspoons **thyme**
-* 1 teaspoon **white pepper**
+- 2 lbs **chicken thighs**
+- 2 cups **mayo**
+- 1/3 cup **vinegar**
+    - Preferably half white wine vinegar & half balsamic vinegar
+- 2 **celery hearts**, diced
+- 1 pound **green grapes**, diced or halved
+    - About 2 1/2 cups 
+- 7 ounces **pecans**, toasted
+    - About 1 1/2 cups
+- 2 teaspoons **garlic powder**
+- 2 teaspoons **thyme**
+- 1 teaspoon **white pepper**
 
 ## Directions
 
