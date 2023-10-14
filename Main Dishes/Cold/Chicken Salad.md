@@ -9,7 +9,7 @@
 * 1/3 cup **vinegar**
     * Preferably half white wine vinegar & half balsamic vinegar
 * 2 **celery hearts**, diced
-* 2 cups **green grapes**, diced or halved
+* 1 pound **green grapes**, diced or halved
 * 1 1/2 cups **pecans**, toasted
 * 2 teaspoons **garlic powder**
 * 2 teaspoons **thyme**
