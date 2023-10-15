@@ -7,9 +7,12 @@ Makes 1 9" x 5" loaf
 - 2 cups **whole milk**, bloodwarm
 - 1/2 cup **honey**
 - 1 tablespoon **yeast**
-- 3 tablespoons **butter**
-- 4 1/2 cups **whole wheat bread flour**
-- 1/4 cup **wheat gluten**
+- 1.5 ounces **butter**
+    - Or 3 tablespoons
+- 1.5 pounds **whole wheat bread flour**
+    - Or 5 cups
+- 1.2 ounces **wheat gluten**
+    - Or 1/4 cup
 - 1 tablespoon **salt**
 
 ## Directions
