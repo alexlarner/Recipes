@@ -4,15 +4,15 @@ Makes 1 ⅓ quarts
 
 ## Ingredients
 
-- 8 oz **cheese**
+- 1/2 pound **cheese**
     - About 3 cups, finely shredded
-- 8 ounces **cream cheese**
-- 3 **Roma tomatoes**
-    - About 10 ounces
+- 1/2 pound **cream cheese**
+- 10 ounces **tomatoes**
 - 1/2 cup **milk**
 - 1 pound **ground beef**
 - 3 tablespoons [**taco seasoning**](Seasonings/Taco%20Seasoning.md)
-- 1 **onion**
+- 1/2 pound **onion**, diced
+    - About 1 **onion**
 - 1/2 bulb **garlic**
 - 5 ounces **mild peppers** (Poblano/Anaheim/etc.), diced
 - 1 10 oz bag of **tortilla chips**

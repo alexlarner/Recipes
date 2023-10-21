@@ -10,13 +10,14 @@ Makes one of these:
 
 ### Batter
 
-- 5 medium overripe **bananas**, mashed
-    - About 2 pounds
-- 3/4 cup **coconut sugar**
+- 1.5 pounds overripe **bananas** (weighed before peeling)
+- 3/4 cup **maple syrup**
 - 1/4 pound **butter/coconut oil**, melted
     - About 1/2 cup
 - 2 **eggs**
-- 2 cups **flour** or **gluten-free flour**
+- 0.62 pounds **whole wheat pastry flour**
+    - About 2 1/4 cups
+    - Or 1 3/4 cups **gluten-free flour** and 1/4 cup coconut flour
 - 1 teaspoon **baking soda**
 - 1/2 teaspoons **salt**
 - 1/4 teaspoon **baking powder**

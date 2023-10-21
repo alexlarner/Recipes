@@ -1,6 +1,10 @@
 # Pumpkin Gingerbread
 
-Makes 1 9"x5" loaf
+Makes one of these:
+
+- 1 9"x5" loaf
+- 1 dozen 1/3 cup muffins
+- 6 jumbo muffins
 
 ## Ingredients
 
