@@ -10,6 +10,8 @@ Makes one of these:
 ## Ingredient
 
 - 1 pound **apple**, de-seeded & finely grated (weighed before deseeding)
+    - About 1 1/2 cups
+    - About 3 medium apples
 - 2 **eggs**
 - 1 cup **maple syrup**
 - 1/4 pound **butter**, melted
