@@ -9,7 +9,7 @@ Makes one of these:
 
 ## Ingredient
 
-- 1 1/2 cups **apple**, finely grated
+- 1 pound **apple**, de-seeded & finely grated (weighed before deseeding)
 - 2 **eggs**
 - 1 cup **maple syrup**
 - 1/4 pound **butter**, melted
@@ -24,6 +24,7 @@ Makes one of these:
 - 1/4 teaspoon **baking powder**
 - 1 tablespoon **ginger**, dried, ground
 - 1/2 tablespoon **cardamom**, dried, ground
+    - Or 1/2 tablespoon **Szechuan peppercorns** ground
 - 1/4 cup **walnuts**, toasted (Optional)
 
 ### Refined Sugar Variant
