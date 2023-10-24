@@ -1,18 +1,17 @@
-# Zucchini Bread
+# Apple Bread
 
 Makes one of these:
 
 - 1 9"x5" loaf
+- 8 mini loafs
 - 1 dozen 1/3 cup muffins
 - 6 jumbo muffins
 
 ## Ingredient
 
-- 1 1/2 cups **zucchini**, finely grated
-    - Drain and reserve 1/3 cup liquid if using defrosted zucchini
+- 1 1/2 cups **apple**, finely grated
 - 2 **eggs**
 - 1 cup **maple syrup**
-- 2 teaspoons **vanilla extract**
 - 1/4 pound **butter**, melted
     - Or 1/2 cup **olive oil**
 - 2 1/4 cups **whole wheat pastry flour**
@@ -23,9 +22,9 @@ Makes one of these:
 - 1 teaspoon **baking soda**
 - 1/2 teaspoon **salt**
 - 1/4 teaspoon **baking powder**
-- 1 1/2 tablespoons **ground cinnamon**
-    - About 4 6" sticks
-- 1/4 cup **pecans**, toasted (Optional)
+- 1 tablespoon **ginger**, dried, ground
+- 1/2 tablespoon **cardamom**, dried, ground
+- 1/4 cup **walnuts**, toasted (Optional)
 
 ### Refined Sugar Variant
 
