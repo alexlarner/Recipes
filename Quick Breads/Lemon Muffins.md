@@ -22,8 +22,8 @@ Makes one of these:
 - 1 1/2 teaspoons **baking soda**
 - 1/2 teaspoon **salt**
 - 1/4 teaspoon **baking powder**
-- 2 teaspoons **lemon zest powder**, dried, ground
-- 1/2 tablespoon **Szechuan peppercorns** ground
+- 4 teaspoons **lemon zest powder**, dried, ground
+- 1 tablespoon **Szechuan peppercorns** ground
 
 ### Refined Sugar Variant
 
