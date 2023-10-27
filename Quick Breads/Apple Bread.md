@@ -9,14 +9,13 @@ Makes one of these:
 
 ## Ingredient
 
-- 1 pound **apple**, de-seeded & finely grated (weighed before deseeding)
-    - About 1 1/2 cups
-    - About 3 medium apples
+- 1 pound **apples**, de-seeded & finely grated (weighed before deseeding)
 - 2 **eggs**
 - 1 cup **maple syrup**
 - 1/4 pound **butter**, melted
     - Or 1/2 cup **olive oil**
-- 2 1/4 cups **whole wheat pastry flour**
+- 0.65 pounds **whole wheat pastry flour**
+    - About 2 1/4 cups
     - Or 0.69 pounds **gluten-free flour**
         - About 1 2/3 cups
     - And 0.09 Pounds **coconut flour**
@@ -24,15 +23,21 @@ Makes one of these:
 - 1 teaspoon **baking soda**
 - 1/2 teaspoon **salt**
 - 1/4 teaspoon **baking powder**
-- 1 tablespoon **ginger**, dried, ground
-- 1/2 tablespoon **cardamom**, dried, ground
-    - Or 1/2 tablespoon **Szechuan peppercorns** ground
+- 1 tablespoon **ceylon cinnamon**, dried, ground
+- 1/2 teaspoon **nutmeg**, dried, ground
 - 1/4 cup **walnuts**, toasted (Optional)
 
 ### Refined Sugar Variant
 
 - Replace **maple syrup** with equal amounts of **brown sugar**
 - Use 2 cups **whole wheat pastry flour** or **gluten-free flour**
+
+## Ginger Variant
+
+- Replace cinnamon & nutmeg with:
+    - 1 tablespoon **ginger**, dried, ground
+    - 1/2 tablespoon **cardamom**, dried, ground
+    - 1/2 tablespoon **Szechuan peppercorns** ground (optional)
 
 ## Directions
 
