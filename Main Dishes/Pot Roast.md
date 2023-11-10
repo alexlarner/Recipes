@@ -42,7 +42,7 @@ Makes 2 gallons
 1. Cut the top 1/3 off of the garlic and toss it out. Cover the newly exposed top of the garlic bulb with oil/tallow and salt the top heavily.
 1. Toss the quartered onions & carrots in oil/beef tallow and sprinkle generously with salt.
     1. Optional: Do the same with the potatoes
-1. Roast garlic, onions, carrots, (and optionally the potatoes if you did the step above) in the oven for 1 hour at 450 F
+1. Roast garlic, quartered onions, carrots, (and optionally the potatoes if you did the step above) in the oven for 1 hour at 450 F
 
 ### Instant Pot
 
