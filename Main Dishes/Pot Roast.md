@@ -28,8 +28,9 @@ Makes 2 gallons
     - 1 1/2 pounds diced
     - 1 1/2 pounds quartered & separated
 - 3 pounds **carrots**, cut slightly larger than bite sized
-- 5 pounds **potatoes**, cut slightly larger than bite sized
-    - Or use whole small potatoes
+- 5 pounds **potatoes/sweet potatoes**, cut slightly larger than bite sized
+    - Or 3 pounds **potatoes/sweet potatoes** and 2 pounds **beets**
+- 1 tablespoon **black/white pepper**
 - **Melted Beef Tallow/Avocado Oil** for roasting
 
 ## Directions
@@ -53,5 +54,5 @@ Makes 2 gallons
 ### Oven
 
 1. Reduce oven to 300 F
-1. Place everything in a large dutch oven and put the lid on
+1. Place everything (including pepper) in a large dutch oven and put the lid on
 1. Cook everything together for 2-4 hours. Or until meat is fork-tender.
