@@ -4,8 +4,9 @@
 
 - 2 cups **old-fashioned/rolled oats**
 - 1 cup **peanut butter/sunflower butter**, unsweetened & unsalted
-- 1 cup **maple syrup/coconut syrup**
+- 1 cup **maple/coconut syrup**
     - Or 2/3 cup **honey**
+    - Or 1/2 cup **maple/coconut syrup** & 1/2 cup **maple/cocout sugar**
 - 2 ounces **coconut oil**
 - 1/2 cup **flax seed**, ground
 - 1/2 cup **coconut**, shredded
