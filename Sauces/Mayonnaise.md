@@ -10,6 +10,12 @@
 - 1/2 teaspoon **garlic powder**
 - 16 ounces **avocado oil** or **filtered olive oil**
 
+## Variants
+
+### Garlic Aioli
+
+Add 1/2 bulb of garlic
+
 ## Directions
 
 1. Put everything except the oil into a food processor/blender and pulse until blended

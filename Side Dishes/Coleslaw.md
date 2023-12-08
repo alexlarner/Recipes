@@ -1,7 +1,6 @@
 # Coleslaw
 
-Makes 3.75 pounds
-Makes 8 cups
+Makes 3.75 pounds/8 cups
 
 ## Ingredients
 
