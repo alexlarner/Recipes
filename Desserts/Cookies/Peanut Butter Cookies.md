@@ -7,9 +7,9 @@
 - 1 cup coconut sugar
 - 2 large egg
 - 1 teaspoon vanilla extract
-- 1 1/4 cups flour/glute-free flour
-- 1 teaspoon baking powder
-- 1/2 teaspoon salt
+- 1 1/2 cups flour/gluten-free flour
+- 1 teaspoon baking soda
+- 1 teaspoon salt
 
 ## Directions
 
