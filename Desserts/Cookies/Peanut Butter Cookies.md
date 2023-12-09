@@ -4,7 +4,7 @@
 
 - 1/2 pound peanut butter, unsweetened & unsalted
 - 1/4 pound butter/coconut oil, softened
-- 1 cup coconut sugar
+- 1 1/4 cup coconut sugar
 - 2 large egg
 - 1 teaspoon vanilla extract
 - 1 1/2 cups flour/gluten-free flour
