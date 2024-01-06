@@ -9,7 +9,7 @@ Makes 6 1/2 cup Pancakes
 - 14 grams (2 tablespoons) **baking powder**
     - If using whole wheat flour, add 3 grams (1/2 tablespoon)
 - 4 grams (1/2 tablespoon) **cinnamon** (optional)
-- (490 grams) 2 cups **buttermilk**
+- 490 grams (2 cups) **buttermilk**
     - Or:
         - 1 (13.5 ounce can) **coconut milk**
         - 71 grams (5 tablespoons) **water**
@@ -17,7 +17,7 @@ Makes 6 1/2 cup Pancakes
     - Or 68 grams **lard** (5 tablespoons and 1 teaspoon), melted
 - 10 grams (2 teaspoons) **vanilla extract**
 - 48 grams (1/4 cup) **coconut sugar**
-    - If using gluten free flour, use 1/4 cup **maple syrup/honey**
+    - If using gluten free flour, use 79 grams **maple syrup** (1/4 cup) or 85 grams **honey** (1/4 cup)
 - 2 **eggs**
 
 ## Directions
