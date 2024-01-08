@@ -3,15 +3,17 @@
 ## Ingredients
 
 - 216 grams (2 cups) **old-fashioned/rolled oats**
-- 1 cup **peanut butter/sunflower butter**, unsweetened & unsalted
+- 256 grams (1 cup) **peanut/sunflower butter**, unsweetened & unsalted
 - 240 grams (1 cup) **maple syrup**
     - Or 384 grams (1 cup) **coconut syrup**
     - Or 226 grams (2/3 cup) **honey**
 - 56 grams (1/4 cup) **coconut oil**
-- 60 grams (1/2 cup) **flax seed**, ground
+- 60 grams (1/2 cup) **ground flax seed/coconut flour** , ground
 - 60 grams (1/2 cup) **coconut**, shredded
+- 60 grams (1/2 cup) **pecans**
 - 35 grams (1/4 cup) **sunflower seeds**
-- 60 grams (1/4 cup) **chocolate chips**(optional)
+- 30 grams (1/4 cup) **pumpkin seeds**
+- 60 grams (1/4 cup) **chocolate chips** (optional)
 - 1 teaspoon **cinnamon** (optional)
 - 1 1/2 teaspoons **coarse Kosher salt**
 
