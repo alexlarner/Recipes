@@ -2,18 +2,18 @@
 
 ## Ingredients
 
-- 2 cups **old-fashioned/rolled oats**
+- 216 grams (2 cups) **old-fashioned/rolled oats**
 - 1 cup **peanut butter/sunflower butter**, unsweetened & unsalted
-- 1 cup **maple/coconut syrup**
-    - Or 2/3 cup **honey**
-    - Or 1/2 cup **maple/coconut syrup** & 1/2 cup **maple/cocout sugar**
-- 2 ounces **coconut oil**
-- 1/2 cup **flax seed**, ground
-- 1/2 cup **coconut**, shredded
-- 1/4 cup **sunflower seeds**
-- 1/4 cup **chocolate chips**(optional)
+- 240 grams (1 cup) **maple syrup**
+    - Or 384 grams (1 cup) **coconut syrup**
+    - Or 226 grams (2/3 cup) **honey**
+- 56 grams (1/4 cup) **coconut oil**
+- 60 grams (1/2 cup) **flax seed**, ground
+- 60 grams (1/2 cup) **coconut**, shredded
+- 35 grams (1/4 cup) **sunflower seeds**
+- 60 grams (1/4 cup) **chocolate chips**(optional)
 - 1 teaspoon **cinnamon** (optional)
-- 2 teaspoons **salt**
+- 1 1/2 teaspoons **coarse Kosher salt**
 
 ### Orange Cardamom Variant
 
