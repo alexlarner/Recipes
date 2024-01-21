@@ -7,7 +7,7 @@ Makes 5 quarts
 - 1 cup **kidney beans**, dried
 - 1 cup **pinto beans**, dried
 - 1 cup **black beans**, dried
-- 1 quart [**beef stock**](Ingredients\Stock.md)
+- 6 cups [**beef stock**](Ingredients\Stock.md)
 - 1/3 cup **masa flour**
 - 2 pounds **roma tomatoes**, fresh, diced
 - 1 15 oz **can of corn**
