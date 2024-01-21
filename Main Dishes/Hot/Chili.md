@@ -1,10 +1,12 @@
 # Chili
 
+Makes 5 quarts
+
 ## Ingredients
 
-- 1/2 cup **kidney beans**, dried
-- 1/2 cup **pinto beans**, dried
-- 1/2 cup **black beans**, dried
+- 1 cup **kidney beans**, dried
+- 1 cup **pinto beans**, dried
+- 1 cup **black beans**, dried
 - 1 quart [**beef stock**](Ingredients\Stock.md)
 - 1/3 cup **masa flour**
 - 2 pounds **roma tomatoes**, fresh, diced
