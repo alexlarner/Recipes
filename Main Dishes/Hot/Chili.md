@@ -24,6 +24,7 @@ Makes 5 quarts
     - 1 tablespoon
 - 1.2 ounces **salt**
     - 2 tablespoons
+- 1-2 teaspoons **lemon zest powder**
 
 ## Directions
 
