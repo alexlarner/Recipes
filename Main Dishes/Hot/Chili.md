@@ -11,7 +11,8 @@ Makes 5 quarts
 - 1/3 cup **masa flour**
 - 2 pounds **roma tomatoes**, fresh, diced
 - 1 15 oz **can of corn**
-- 2 pounds **ground beef**
+- 1 pound **ground beef**
+- 1 pound **beef stew meat**
 - 1 pound mild **peppers** (poblano, cubanelle, anaheim, etc.)
 - 1 pound **onions**, diced
     - About 3 medium **onions**
@@ -24,7 +25,7 @@ Makes 5 quarts
     - 1 tablespoon
 - 1.2 ounces **salt**
     - 2 tablespoons
-- 1-2 teaspoons **lemon zest powder**
+- 2 teaspoons **lemon zest powder**
 
 ## Directions
 
@@ -33,8 +34,9 @@ Makes 5 quarts
 1. Add beans to pot with beef stock and get it to a boil
 1. Let simmer for 30 minutes
 1. Add all the contents of the bean pot to a crockpot
-1. Add tomatoes and masa flour/cornmeal to crockpot
-1. In a warmed skillet on medium high heat, add onions, peppers, garlic, and spices
+1. Add raw stew meat and half of the spices to the crockpot
+1. Add tomatoes and masa flour to the crockpot
+1. In a warmed skillet on medium high heat, add onions, peppers, garlic, ground beef, and the other half of the spices
 1. Cook until ground beef is fully browned
 1. Add beef mixture to crockpot
 1. Simmer until the flavors have married
