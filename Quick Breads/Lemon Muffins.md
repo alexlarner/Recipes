@@ -24,15 +24,19 @@ Makes one of these:
 ### Dry Sugar Variant
 
 - Replace **coconut syrup** with equal amounts of **coconut sugar**
-- Use 2 cups **whole wheat pastry flour** or **gluten-free flour**
+- Use 240 grams (2 cups) **whole wheat pastry flour** or **gluten-free flour**
 
 ## Directions
 
-1. Preheat oven to 325 F
-1. Grease one 9”x5” loaf pan
+1. Preheat oven to:
+    1. Loaf: 325 F
+    1. Muffins: 365 F
+    1. Mini loafs: 350 F
+1. Grease pan
 1. Combine wet ingredients
-1. Combine dry ingredients and sift
-1. If using walnuts, add them to the sifted **dry** ingredients
+    - If using coconut oil, do not add that to the wet ingredients
+1. Combine dry ingredients
+1. If using coconut oil, add that to the dry ingredients now
 1. Add dry ingredients to wet ingredients and mix until no clumps of dry ingredients are seen
 1. Bake in a preheated oven until a toothpick comes out clean, about 70 minutes.
     1. For muffins, bake for 20 minutes at 365 F
