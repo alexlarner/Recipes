@@ -17,7 +17,7 @@ Makes 6 1/2 cup Pancakes
     - Or 68 grams **lard** (5 tablespoons and 1 teaspoon), melted
 - 10 grams (2 teaspoons) **vanilla extract**
 - 48 grams (1/4 cup) **coconut sugar**
-    - If using gluten free flour, use 79 grams **maple syrup** (1/4 cup) or 85 grams **honey** (1/4 cup)
+    - If using gluten-free flour, use 79 grams **maple syrup** (1/4 cup) or 85 grams **honey** (1/4 cup)
 - 2 **eggs**
 
 ## Directions

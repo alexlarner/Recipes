@@ -10,24 +10,20 @@ Makes one of these:
 ## Ingredient
 
 - 2 **eggs**
-- 1 cup **honey**
+- 1 cup **coconut syrup**
 - 1 (13.5 ounce) can **coconut milk**
-- 1/4 pound **butter**, melted
-    - Or 1/2 cup **olive oil**
-- 2 1/2 cups **whole wheat pastry flour**
-    - Or 0.62 pounds **gluten-free flour**
-        - About 1 1/2 cups
-    - And 0.14 Pounds **coconut flour**
-        - About 1/2 cup
-- 1 1/2 teaspoons **baking soda**
-- 1/2 teaspoon **salt**
-- 1/4 teaspoon **baking powder**
+- 113 grams (1/2 cup) **butter/coconut oil**, melted
+- 300 grams (2 1/2 cups) **whole wheat pastry flour**
+    - Or 180 grams (1 1/2 cups) **gluten-free flour**
+    - And 64 grams (1/2 cup) **coconut flour**
 - 4 teaspoons **lemon zest powder**, dried, ground
-- 1 tablespoon **Szechuan peppercorns** ground
+- 1 tablespoon **Szechuan peppercorns** ground (optional)
+- 10 grams (1 tablespoon) **baking powder**
+- 1/2 teaspoon **salt**
 
-### Refined Sugar Variant
+### Dry Sugar Variant
 
-- Replace **honey** with equal amounts of **brown sugar**
+- Replace **coconut syrup** with equal amounts of **coconut sugar**
 - Use 2 cups **whole wheat pastry flour** or **gluten-free flour**
 
 ## Directions
