@@ -17,7 +17,7 @@ Makes 4 quarts
 - 1 pound onions, diced
 - 1/2 pound mild **peppers** (poblano, cubanelle, anaheim, etc.)
 - 1/2 pound manzano peppers
-- 4 habanero peppers
+- 2 ounces habanero peppers
 - 20 Thai chilis
 - 1 garlic bulb, pressed/minced
 - 2 pounds pineapple, diced
