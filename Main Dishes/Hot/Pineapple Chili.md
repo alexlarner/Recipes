@@ -14,7 +14,7 @@ Makes 4 quarts
 - 2 pounds roma tomatoes, fresh, diced
 - 1 15 oz can of corn
 - 3 pounds beef stew meat
-- 2 onions, diced
+- 1 pound onions, diced
 - 4 mild **peppers** (poblano, cubanelle, anaheim, etc.)
 - 2 manzano peppers
 - 4 habanero peppers
