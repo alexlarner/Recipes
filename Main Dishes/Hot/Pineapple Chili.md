@@ -15,8 +15,8 @@ Makes 4 quarts
 - 1 15 oz can of corn
 - 3 pounds beef stew meat
 - 1 pound onions, diced
-- 4 mild **peppers** (poblano, cubanelle, anaheim, etc.)
-- 2 manzano peppers
+- 1/2 pound mild **peppers** (poblano, cubanelle, anaheim, etc.)
+- 1/2 pound manzano peppers
 - 4 habanero peppers
 - 20 Thai chilis
 - 1 garlic bulb, pressed/minced
