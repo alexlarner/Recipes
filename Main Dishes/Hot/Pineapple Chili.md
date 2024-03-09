@@ -18,7 +18,7 @@ Makes 4 quarts
 - 1/2 pound mild **peppers** (poblano, cubanelle, anaheim, etc.)
 - 1/2 pound manzano peppers
 - 2 ounces habanero peppers
-- 20 Thai chilis
+- 1 ounce Thai chilis
 - 1 garlic bulb, pressed/minced
 - 2 pounds pineapple, diced
     - About 2 whole pineapples
