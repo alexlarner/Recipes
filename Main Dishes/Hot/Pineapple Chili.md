@@ -19,7 +19,7 @@ Makes 4 quarts
 - 1/2 pound manzano peppers
 - 2 ounces habanero peppers
 - 1 ounce Thai chilis
-- 1 garlic bulb, pressed/minced
+- 2 garlic bulbs, pressed/minced
 - 2 pounds pineapple, diced
     - About 2 whole pineapples
 - 2 ounces fresh ginger
