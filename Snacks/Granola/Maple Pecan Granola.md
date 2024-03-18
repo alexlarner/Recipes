@@ -2,22 +2,23 @@
 
 ## Ingredients
 
-- 3 1/2 cups **old-fashioned rolled oats**
-- 1 cup **pecans**, chopped
-- 1/2 cup **pecan flour**
-- 1 cup **seeds** (flax/pumpkin/sunflower)
-- 1 ounce **Korintje/Saigon cinnamon**, freshly ground
+- 291 grams (3 1/2 cups) **old-fashioned rolled oats**
+- 198 grams (2 cups) **pecan halves**
+- 72 grams (1/2 cup) **pecan flour**
+- 64 grams (1/2 cup) **pumpkin seeds**, raw
+- 72 grams (1/2 cup) **pumpkin seeds**, raw
+- 28 grams (1/4 cup) **Korintje/Saigon cinnamon**, freshly ground
     - About 12 sticks
-    - About 1/3 cup
-- 1 teaspoon **cloves**, freshly ground
-- 1 teaspoon **allspice**, freshly ground
-- 1 teaspoon **nutmeg**, freshly ground
+- 3 grams (1 teaspoon) **cloves**, freshly ground
+- 2.4 grams (1 teaspoon) **allspice**, freshly ground
+- 2.8 grams (1 teaspoon) **nutmeg**, freshly ground
     - About 1 small whole nutmeg
-- 1/2 tablespoon **coarse kosher salt**
-- 1 cup pure **maple syrup**
-- 3 ounces **coconut oil**, melted
+- 7 grams (1/2 tablespoon) **coarse kosher salt**
+- 315 grams (1 cup) pure **maple syrup**
+- 85 grams **coconut oil**, melted
     - About 1/2 cup
-- 2 **egg whites**
+- 64 grams **egg whites**
+    - About 2 eggs
 
 ## Directions
 
