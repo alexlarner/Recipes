@@ -5,8 +5,8 @@
 - 291 grams (3 1/2 cups) **old-fashioned rolled oats**
 - 198 grams (2 cups) **pecan halves**
 - 72 grams (1/2 cup) **pecan flour**
+- 72 grams (1/2 cup) **sunflower seeds**, raw
 - 64 grams (1/2 cup) **pumpkin seeds**, raw
-- 72 grams (1/2 cup) **pumpkin seeds**, raw
 - 28 grams (1/4 cup) **Korintje/Saigon cinnamon**, freshly ground
     - About 12 sticks
 - 3 grams (1 teaspoon) **cloves**, freshly ground
