@@ -7,6 +7,8 @@
 - 72 grams (1/2 cup) **pecan flour**
 - 72 grams (1/2 cup) **sunflower seeds**, raw
 - 64 grams (1/2 cup) **pumpkin seeds**, raw
+- 64 grams (1 cup) **dried apples** (optional), in bite sized pieces
+    - The apples should be so dry that they're crispy
 - 28 grams (1/4 cup) **Korintje/Saigon cinnamon**, freshly ground
     - About 12 sticks
 - 3 grams (1 teaspoon) **cloves**, freshly ground
