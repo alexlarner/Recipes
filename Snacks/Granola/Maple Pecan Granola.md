@@ -17,7 +17,7 @@
     - About 1 small whole nutmeg
 - 7 grams (1/2 tablespoon) **coarse kosher salt**
 - 315 grams (1 cup) pure **maple syrup**
-- 85 grams **coconut oil**, melted
+- 85 grams **coconut oil/lard**, melted
     - About 1/2 cup
 - 64 grams **egg whites**
     - About 2 eggs
