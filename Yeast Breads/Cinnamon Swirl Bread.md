@@ -11,7 +11,7 @@
 - 85 grams (6 tablespoons) **butter**, softened
 - 448 grams (3 1/2 cups) **whole wheat bread flour**
 - 42 grams (3 tablespoons) **wheat gluten**
-- 21 grams (2 teaspoons) **salt**
+- 10 grams (2 teaspoons) **kosher salt**
 - 8 grams (1 tablespoon) **cinnamon**
 
 ### Filling
