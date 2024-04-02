@@ -6,16 +6,16 @@ If you don't have enough **bacon grease**, use **lard** to make up the rest
 
 ### Dough
 
-- 284 grams (1 1/4 cups) **whole milk**
+- 244 grams (1 cup) **whole milk**
 - 157 grams (1/2 cup) **maple syrup**
 - 8 grams (2 teaspoons) **instant yeast**
 - 1 large egg
 - 77 grams (6 tablespoons) **bacon grease**, softened
-- 448 grams (3 1/2 cups) **whole wheat bread flour**
+- 512 grams (4 cups) **whole wheat bread flour**
 - 42 grams (3 tablespoons) **wheat gluten**
 - 10 grams (2 teaspoons) **kosher salt**
 - 8 grams (1 tablespoon) **cinnamon**
-- 141 grams (5 ounces) cooked bacon
+- 141 grams (5 ounces) **cooked bacon**
 
 ### Filling
 
