@@ -29,7 +29,7 @@ If you don't have enough **bacon grease**, use **lard** to make up the rest
 - 160 grams (1 1/3 cups) **powdered sugar**
 - 52 grams (1/4 cup) **bacon grease**, melted
 - 79 grams (1/4 cup) **maple syrup**
-- 15-30 grams (1-2 tablespoons) **water**
+- 15 grams (1 tablespoons) **water**
 - 1 gram (1/4 teaspoon) **coarse kosher salt**
 
 ## Directions
