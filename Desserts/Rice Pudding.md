@@ -26,7 +26,7 @@ Makes 2 quarts
 1. Cook rice in equal parts water & milk/coconut milk
 1. Cooking them in that mixture instead of just water may require longer cooking time or more water to ensure that the rice is fully cooked
 1. Add cooked rice and everything else except the eggs & butter/coconut oil to a crockpot
-1. Cook crockpot contents on high until thickened slightly less than the desired result (about 2 hours), it will thicken as it cools
+1. Cook crockpot contents on high until thickened slightly less than the desired result (about 1 1/2 hours), it will thicken as it cools
 1. Stirring crockpot every 15-20 minutes
 1. Temper the eggs, i.e.
     1. Crack the eggs into a small bowl
