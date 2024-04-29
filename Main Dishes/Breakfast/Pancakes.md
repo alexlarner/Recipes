@@ -6,6 +6,7 @@ Makes 6 1/2 cup Pancakes
 
 - 240 grams (2 cups) **flour/gluten-free**, sifted
     - If using whole wheat flour, add 30 grams (1/4 cup)
+    - Or 240 grams (3 cups) **oat flour**
 - 14 grams (2 tablespoons) **baking powder**
     - If using whole wheat flour, add 3 grams (1/2 tablespoon)
 - 4 grams (1/2 tablespoon) **cinnamon** (optional)
