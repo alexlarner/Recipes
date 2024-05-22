@@ -21,6 +21,17 @@ Makes 2 quarts
 - 28 grams (2 tablespoons) **butter/coconut oil**
 - 2 eggs
 
+### Strawberries & Cream Variant
+
+#### Remove
+
+- **Ceylon cinnamon**
+- **Nutmeg**
+
+#### Replace
+
+- **Maple/Coconut syrup** with 252 grams (3/4 cup) **light blue agave nectar**
+
 ## Directions
 
 1. Cook rice in equal parts water & milk/coconut milk
