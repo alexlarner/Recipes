@@ -2,22 +2,22 @@
 
 ## Ingredients
 
-- 3 1/2 cups **old-fashioned rolled oats**
-- 1 cup **coconut flakes**
-- 1 cup **macadamia nuts**, halved
-- 1 cup **seeds** (flax/pumpkin/sunflower)
-- 1/2 cup **coconut flour**
-- 1.5 ounces **Ceylon cinnamon**, freshly ground
+- 291 grams (3 1/2 cups) **old-fashioned rolled oats**
+- 264 grams (2 cups) **macadamia nuts**, halved
+- 112 grams (1 cup) **coconut flakes**
+- 72 grams (1/2 cup) **sunflower seeds**, raw
+- 64 grams (1/2 cup) **pumpkin seeds**, raw
+- 56 grams (1/2 cup) **coconut flour**
+- 56 grams (1/2 cup) **Ceylon cinnamon**, freshly ground
     - About 12 sticks
-    - About 1/2 cup
-- 1 tablespoon **ground ginger**
-- 1 tablespoon **cardamom**, freshly ground
-- 1/2 tablespoon **coarse kosher salt**
-- 1 cup **coconut syrup**
-- 3 ounces **coconut oil**, melted
-    - About 1/2 cup
-- 2 **egg whites**
-- 1 cup **white chocolate chips** (Optional)
+- 5 grams (1 tablespoon) **ground ginger**
+- 6 grams (1 tablespoon) **cardamom**, freshly ground
+- 7 grams (1/2 tablespoon) **coarse kosher salt**
+- 322 grams (1 cup) **coconut syrup**
+- 85 grams (1/2 cup) **coconut oil**, melted
+- 64 grams **egg whites**
+    - About 2 eggs
+- 150 grams (1 cup) **white chocolate chips** (Optional)
 
 ## Directions
 
