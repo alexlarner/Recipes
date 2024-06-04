@@ -4,17 +4,17 @@
 
 ## Ingredients
 
-* ½ cup **ground dried peppers**
-    * 2 oz **ancho peppers**
-        * Weighed after being stemmed & deseeded
-    * 2 oz **guajillo peppers**
-        * Weighed after being stemmed & deseeded
-* 1/2 cup and 2 tablespoons **cumin seeds**
-* 1/3 cup **salt**
-* 1/3 cup **black peppercorns**
-* 1/4 cup **oregano**
-* 1/4 cup **garlic powder**
-* 3 tablespoons **onion powder**
+- 1/2 cup **ground dried peppers**
+    - 57 grams **ancho peppers**
+        - Weighed after being stemmed & deseeded, but before toasting
+    - 57 grams **guajillo peppers**
+        - Weighed after being stemmed & deseeded, but before toasting
+- 60 grams (1/2 cup and 2 tablespoons) **cumin seeds**
+- 98 grams (1/3 cup) **salt**
+- 13 grams (1/3 cup) **black peppercorns**
+- 12 grams (1/4 cup) **oregano**
+- 39 grams (1/4 cup) **garlic powder**
+- 20 grams (3 tablespoons) **onion powder**
 
 ## Directions
 
