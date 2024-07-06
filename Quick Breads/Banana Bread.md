@@ -11,22 +11,28 @@ Makes one of these:
 ### Batter
 
 - 1.5 pounds overripe **bananas** (weighed before peeling)
-- 3/4 cup **maple syrup**
-- 1/4 pound **butter/coconut oil**, melted
-    - About 1/2 cup
+- 236 grams (3/4 cup) pure **maple syrup**
+    - Or 241 grams (3/4 cup) **coconut syrup**
+- 113 grams (1/2 cup) **butter/coconut oil**, melted
 - 2 **eggs**
-- 0.62 pounds **whole wheat pastry flour**
-    - About 2 1/4 cups
-    - Or 1 3/4 cups **gluten-free flour** and 1/4 cup coconut flour
-- 1 teaspoon **baking soda**
-- 1/2 teaspoons **salt**
+- 270 grams (2 1/4 cups) **flour/gluten-free flour**
+    - 405 grams (3 1/4 cups and 2 tablespoons) **oat flour**
+- 5 grams (1 teaspoon) **baking soda**
+- 3 grams (1/2 teaspoon) **salt**
 - 1/4 teaspoon **baking powder**
-- 0.1 ounces **cinnamon**, freshly ground
-    - About 1/2 tablespoon
+- 4 grams (1/2 tablespoon) **cinnamon**, freshly ground
     - About 2 6" sticks
 - 1/4 teaspoon **nutmeg**, freshly ground
     - About 1/4 **whole nutmeg**
-- 1/4 cup **walnuts/pecans**, toasted (Optional)
+- 29 grams (1/4 cup) **walnuts (Optional)
+    - Or 25 grams (1/4 cup) **pecans**, toasted & chopped
+- 60 grams (1/4 cup) **chocolate chips**, toasted (Optional)
+
+### Dry Sweetener Variant
+
+- Replace **maple/coconut syrup** with 144 grams (3/4 cup) **coconut sugar**
+- Use 240 grams (2 cups) **flour/gluten-free flour**
+    - Or 260 grams (3 cups) **oat flour**
 
 ### Streusel Topping (Optional)
 
