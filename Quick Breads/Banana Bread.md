@@ -16,7 +16,7 @@ Makes one of these:
 - 113 grams (1/2 cup) **butter/coconut oil**, melted
 - 2 **eggs**
 - 270 grams (2 1/4 cups) **flour/gluten-free flour**
-    - 405 grams (3 1/4 cups and 2 tablespoons) **oat flour**
+    - Or 270 grams (3 1/4 cups and 2 tablespoons) **oat flour**
 - 5 grams (1 teaspoon) **baking soda**
 - 3 grams (1/2 teaspoon) **salt**
 - 1/4 teaspoon **baking powder**
@@ -32,7 +32,7 @@ Makes one of these:
 
 - Replace **maple/coconut syrup** with 144 grams (3/4 cup) **coconut sugar**
 - Use 240 grams (2 cups) **flour/gluten-free flour**
-    - Or 260 grams (3 cups) **oat flour**
+    - Or 240 grams (3 cups) **oat flour**
 
 ### Streusel Topping (Optional)
 
