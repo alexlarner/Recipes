@@ -10,7 +10,7 @@ Makes one of these:
 
 ### Batter
 
-- 1.5 pounds overripe **bananas** (weighed before peeling)
+- 680 grams (1.5 pounds) overripe **bananas** (weighed before peeling)
 - 236 grams (3/4 cup) pure **maple syrup**
     - Or 241 grams (3/4 cup) **coconut syrup**
 - 113 grams (1/2 cup) **butter/coconut oil**, melted
