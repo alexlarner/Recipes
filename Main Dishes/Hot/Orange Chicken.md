@@ -8,16 +8,13 @@ Makes 4 servings
 - 170 grams (1/2 cup) **honey**
 - 1/3 cup **rice vinegar**
 - 96 grams (1/3 cup) **soy sauce**
-    - Or 14 grams (1 tablespoon) **coarse kosher salt**
-- 1 **orange**, zested and juiced
-- 1 **lemon**, zested and juiced
-    - Or 1 more **orange**, zested and juiced 
-- 2 tablespoons **green onion**, chopped
-    - About 2 **green onions**
+- 2 **oranges**, zested and juiced
+- 1/4 cup **green onion**, chopped
+    - About 4 **green onions**
     - Keep the white & green parts separate
 - 6 grams (1 tablespoon) fresh **ginger root**, minced
-- 1/2" **lemongrass stalk**, shredded (Optional)
-- 1/2 **bulb garlic**, minced
+- 1" **lemongrass stalk**, shredded (Optional)
+- 60 grams (1 bulb) **garlic**, minced
 - 1 tablespoon **sambal**, minced
 - 1 pound **broccoli**, cut into bite-sized pieces
 - (24 grams) 3 tablespoons **cornstarch**
