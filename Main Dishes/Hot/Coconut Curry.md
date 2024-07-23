@@ -16,6 +16,7 @@ Makes 4 servings
 - 3 **peppers**, diced
 	- Or 10 **thai chilis**
 - 1/2 bulb **garlic**, crushed
+- 1 lime, zested and juiced
 - 1 pound **zucchini**, cut into pieces double-bite-sized
 - Avocado Oil
 - 1 1/2 pounds **chicken thighs**, boneless, skinless
