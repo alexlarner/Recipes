@@ -9,8 +9,9 @@ Makes 4 servings
 - 1/3 cup **rice vinegar**
 - 96 grams (1/3 cup) **soy sauce**
     - Or 14 grams (1 tablespoon) **coarse kosher salt**
-- 1 fresh **orange**, zested and juiced
-- 1 fresh **lemon**, zested and juiced
+- 1 **orange**, zested and juiced
+- 1 **lemon**, zested and juiced
+    - Or 1 more **orange**, zested and juiced 
 - 2 tablespoons **green onion**, chopped
     - About 2 **green onions**
     - Keep the white & green parts separate
