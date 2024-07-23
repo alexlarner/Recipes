@@ -14,6 +14,7 @@ Makes 4 servings
 - 2 jars **_Maesri_ Panang curry paste**
 - 1 pound **onions**, diced
 - 3 **peppers**, diced
+	- Or 10 **thai chilis**
 - 1/2 bulb **garlic**, crushed
 - 1 pound **zucchini**, cut into pieces double-bite-sized
 - Avocado Oil
