@@ -7,15 +7,15 @@ Makes 4 servings
 - 1 1/2 cups **chicken stock**
 - 170 grams (1/2 cup) **honey**
 - 1/3 cup **rice vinegar**
-- 45 grams (2 1/2 tablespoons) **soy sauce**
+- 96 grams (1/3 cup) **soy sauce**
 - 1 fresh **orange**, zested and juiced
-- 1 fresh **lemon**, juiced
+- 1 fresh **lemon**, zested and juiced
 - 2 tablespoons **green onion**, chopped
-    - About 1 **green onion**
+    - About 2 **green onions**
 - 6 grams (1 tablespoon) fresh **ginger root**, minced
-- 1/2" **lemongrass stalk**, shredded
+- 1/2" **lemongrass stalk**, shredded (Optional)
 - 1/2 **bulb garlic**, minced
-- 2 **thai peppers**, minced
+- 1 tablespoon **sambal**, minced
 - 1 pound **broccoli**, cut into bite-sized pieces
 - (24 grams) 3 tablespoons **cornstarch**
 - 1/4 cup warm **water**
