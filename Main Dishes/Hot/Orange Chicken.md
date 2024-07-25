@@ -12,10 +12,10 @@ Makes 4 servings
 - 1/4 cup **green onion**, chopped
     - About 4 **green onions**
     - Keep the white & green parts separate
-- 6 grams (1 tablespoon) fresh **ginger root**, minced
-- 1" **lemongrass stalk**, shredded (Optional)
+- 12 grams (1 tablespoon) fresh **ginger root**, sliced into discs
 - 60 grams (1 bulb) **garlic**, minced
 - 1 tablespoon **sambal**, minced
+    - Or 2 tablespoons if you want a moderate heat
 - 1 pound **broccoli**, cut into bite-sized pieces
 - (24 grams) 3 tablespoons **cornstarch**
 - 1/4 cup warm **water**
