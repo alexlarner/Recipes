@@ -15,9 +15,12 @@ Makes 4 servings
 - 1 pound **onions**, diced
 - 1 bulb **garlic**, crushed
 - 1 pound **zucchini**, cut into pieces double-bite-sized
+- 3 cups **chickpeas**, cooked
 - 1 1/2 pounds **chicken thighs**, boneless, skinless
-    - 3 cups **chickpeas**, cooked
-    - 1 pound **zucchini**
+
+## Vegan Variant
+
+- Replace **chicken thighs** with 2 more cups of cooked **chickpeas**
 
 ## Directions
 
