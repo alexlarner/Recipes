@@ -4,24 +4,24 @@ Makes 6 cups
 
 ## Ingredients
 
-- 2 cups **maple sugar**
-    - Coconut sugar can be used instead, but will have a slight bitter aftertase
-- 1 cup **paprika**
+- 288 grams (2 cups) **maple sugar**
+    - Or 384 grams (2 cups) **coconut sugar**
+- 109 grams (1 cup) **paprika**
     - Do **not** use smoked paprika instead
-- 1/3 cup **onion powder**
-- 1/3 cup **garlic powder**
-- 1/4 cup **salt**
-- 1/4 cup **basil**, dried
-- 0.5 ounces **bay leaves**, ground
-    - About 3 tablespoons
-- 2 tablespoons **savory**
-- 2 tablespoons **thyme**
-- 3 tablespoons **mustard seeds**
-    - Or 1/3 cup **dry mustard**
-- 2 tablespoons **coriander**, whole
-- 2 tablespoons **black peppercorns**
-- 2 tablespoons **white peppercorns**
-- 1 teaspoons **cumin seed**
+- 37 grams (1/3 cup) **onion powder**
+- 52 grams (1/3 cup) **garlic powder**
+- 73 grams (1/4 cup) **salt**
+- 32 grams (3 tablespoons) **mustard seeds**
+    - Or 32 grams (5 tablespoons) **dry mustard**
+- 10 grams (2 tablespoons) **coriander**, whole
+- 18 grams (2 tablespoons) **black peppercorns**
+- 18 grams (2 tablespoons) **white peppercorns**
+- 2 grams (1 teaspoon) **cumin seed**
+- 6 grams (1/4 cup) **basil**, dried
+- 14 grams (3 tablespoons) **bay leaves**
+    - About 3 tablespoons **bay leaves**, ground
+- 8.6 grams (2 tablespoons) **thyme**
+- 6 grams (2 tablespoons) **savory**
 
 ## Directions
 
