@@ -49,7 +49,7 @@ Use as the base for these breads:
 - 14 grams (1 tablespoon) **butter/coconut oil**, chilled
 - 6 grams (1 tablespoon) **walnuts/pecans**, toasted and chopped
 
-## Apple
+### Apple
 
 Add:
 
@@ -60,7 +60,7 @@ Add:
     - About 1/2 whole **nutmeg**
 - 29 grams (1/4 cup) **walnuts**, toasted (optional)
 
-## Banana
+### Banana
 
 Add:
 
@@ -76,18 +76,32 @@ Use new amount:
 - 236 grams (3/4 cup) pure **maple syrup**
     - Or 241 grams (3/4 cup) **coconut syrup**
 
-## Peanut Butter Bacon Banana
+### Blueberries
+
+Add:
+
+- 222 grams (1 1/2 cups) **blueberries**
+- 3 grams (1/2 tablespoon) **lemon zest**, dried, ground
+
+Replace:
+
+- **Maple syrup** with one of these:
+    - 160 grams (1/2 cup) **coconut syrup**
+    - 110 grams (1/2 cup) **agave nectar**
+    - 113 grams (1/3 cup) **spring honey**
+
+### Peanut Butter Bacon Banana
 
 Add:
 
 - 128 grams (1/2 cup) **peanut butter**
-- 2 tablespoons dark rum
+- 2 tablespoons **dark rum**
 
 Replace:
 
 - **Butter/coconut oil** with **bacon grease** in equal amounts
 
-## Coconut
+### Coconut
 
 Add:
 
@@ -107,14 +121,14 @@ Replace:
 
 - **Maple syrup** with 321 grams (1 cup) **coconut syrup**
 
-## Lemon
+### Lemon
 
 Add:
 
 - 1 (13.5 ounce) can **coconut milk**
 - 24 grams (2 tablespoons) **poppy seeds** (optional)
     - Or 1 tablespoon **Szechuan peppercorns** ground
-- 8 grams (4 teaspoons) **lemon zest powder**, dried, ground
+- 8 grams (4 teaspoons) **lemon zest**, dried, ground
 
 Use new amount:
 
@@ -123,9 +137,12 @@ Use new amount:
 
 Replace:
 
-- **Maple syrup** with 321 grams (1 cup) **coconut syrup**
+- **Maple syrup** with one of these:
+    - 321 grams (1 cup) **coconut syrup**
+    - 220 grams (1 cup) **agave nectar**
+    - 254 grams (3/4 cup) **honey**
 
-## Pumpkin
+### Pumpkin
 
 Add:
 
@@ -142,7 +159,7 @@ Add:
 - 1/4 teaspoons **cloves**, ground
 - 25 grams (1/4 cup) **pecans**, toasted (optional)
 
-## Pumpkin Gingerbread
+### Pumpkin Gingerbread
 
 Add:
 
@@ -158,7 +175,7 @@ Add:
 - 1/4 teaspoons **cloves**, ground
 - 25 grams (1/4 cup) **pecans**, toasted (optional)
 
-## Zucchini
+### Zucchini
 
 Add:
 
@@ -166,10 +183,13 @@ Add:
 - 11 grams (1 1/2 tablespoon) **ceylon cinnamon**, ground
     - About 2 sticks
 
-## Directions
+### Directions
 
-1. Preheat oven to 325 F
-1. Grease one 9”x5” loaf pan/muffin pan/jumbo muffin pan
+1. Preheat oven to:
+    - **Loafs**: 325 F
+    - **Jumbo muffins** & **Mini-loafs**:350 F
+    - **Muffins**: 365 F
+1. Grease a 9”x5” loaf pan/mini-loaf pan/muffin pan/jumbo muffin pan
 1. Combine wet ingredients
     - If using coconut oil, do not add that to the wet ingredients
 1. Combine dry ingredients and sift
@@ -180,7 +200,7 @@ Add:
     1. Pulse all ingredients in a food processor until small crumbs form
     1. Generously sprinkle topping over the pan
 1. Bake in a preheated oven until a toothpick comes out clean:
-    - **Loafs**: 75-80 minutes at 325 F
-    - **Jumbo muffins**: 40 at 350 F
-    - **Mini-loafs**: 30 minutes at 350 F
-    - **Muffins**: 20-25 minutes at 365 F
+    - **Loafs**: 75-80 minutes
+    - **Jumbo muffins**: 40 minutes
+    - **Mini-loafs**: 30 minutes
+    - **Muffins**: 20-25 minutes
