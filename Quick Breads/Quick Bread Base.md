@@ -51,7 +51,7 @@ Use as the base for these breads:
 
 ### Apple
 
-Add:
+**Add:**
 
 - 453 grams (1 pound) **apples**, de-seeded & finely grated (weighed before deseeding)
 - 7 grams (1 tablespoon) **ceylon cinnamon**, ground
@@ -62,7 +62,7 @@ Add:
 
 ### Banana
 
-Add:
+**Add:**
 
 - 680 grams (1.5 pounds) overripe **bananas** (weighed before peeling)
 - 4 grams (1/2 tablespoon) **Ceylon cinnamon**, ground
@@ -71,19 +71,19 @@ Add:
 - 29 grams (1/4 cup) **walnuts**, toasted (optional)
 - 60 grams (1/4 cup) **chocolate chips**, toasted (optional)
 
-Use new amount:
+**Use new amount:**
 
 - 236 grams (3/4 cup) pure **maple syrup**
     - Or 241 grams (3/4 cup) **coconut syrup**
 
 ### Blueberries
 
-Add:
+**Add:**
 
 - 222 grams (1 1/2 cups) **blueberries**
 - 3 grams (1/2 tablespoon) **lemon zest**, dried, ground
 
-Replace:
+**Replace:**
 
 - **Maple syrup** with one of these:
     - 160 grams (1/2 cup) **coconut syrup**
@@ -92,18 +92,18 @@ Replace:
 
 ### Peanut Butter Bacon Banana
 
-Add:
+**Add:**
 
 - 128 grams (1/2 cup) **peanut butter**
 - 2 tablespoons **dark rum**
 
-Replace:
+**Replace:**
 
 - **Butter/coconut oil** with **bacon grease** in equal amounts
 
 ### Coconut
 
-Add:
+**Add:**
 
 - 1 (13.5 ounce) can **coconut milk**
 - 79 grams (1/3 cup) **water**
@@ -112,30 +112,30 @@ Add:
 - 56 grams (1/2 cup) **shredded/flaked coconut** (optional)
 - 33 grams (1/4 cup) **macadamia nuts**, chopped (optional)
 
-Use new amount:
+**Use new amount:**
 
 - 200 grams (1 2/3 cups) **flour**
     - Or 200 grams (2 1/2 cups) **oat flour**
 
-Replace:
+**Replace:**
 
 - **Maple syrup** with 321 grams (1 cup) **coconut syrup**
 
 ### Lemon
 
-Add:
+**Add:**
 
 - 1 (13.5 ounce) can **coconut milk**
 - 24 grams (2 tablespoons) **poppy seeds** (optional)
     - Or 1 tablespoon **Szechuan peppercorns** ground
 - 8 grams (4 teaspoons) **lemon zest**, dried, ground
 
-Use new amount:
+**Use new amount:**
 
 - 300 grams (2 1/2 cups) **flour/gluten-free flour**
     - Or 300 grams (3 3/4 cups) **oat flour**
 
-Replace:
+**Replace:**
 
 - **Maple syrup** with one of these:
     - 321 grams (1 cup) **coconut syrup**
@@ -144,7 +144,7 @@ Replace:
 
 ### Pumpkin
 
-Add:
+**Add:**
 
 - 227 grams (1 cup) **pumpkin puree**, fresh
 - 79 grams (1/4 cups) **maple syrup**
@@ -161,7 +161,7 @@ Add:
 
 ### Pumpkin Gingerbread
 
-Add:
+**Add:**
 
 - 227 grams (1 cup) **pumpkin puree**, fresh
 - 80 grams (1/4 cup) **baking molasses**
@@ -177,7 +177,7 @@ Add:
 
 ### Zucchini
 
-Add:
+**Add:**
 
 - 1 1/2 cups **zucchini**, finely grated
 - 11 grams (1 1/2 tablespoon) **ceylon cinnamon**, ground
