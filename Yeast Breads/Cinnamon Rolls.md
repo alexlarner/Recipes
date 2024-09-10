@@ -17,19 +17,19 @@
 ### Filling
 
 - 113 grams (1/2 cup) **butter**, melted
-- 96 grams (1/2 cup) of **coconut sugar**
+- 72 grams (1/2 cup) of **maple sugar**
 - 12 grams (1 1/2 tablespoons) **cinnamon**
 
 ### Icing
 
-- 160 grams (1 1/3 cups) **powdered sugar**
+- 192 grams (1 1/3 cups) **maple sugar**
 - 56 grams (1/4 cup) **butter**, melted
 - 30-45 grams (2-3 tablespoons) **water**
 - 4 grams (1 teaspoon) **vanilla extract**
 
 ### Dry Sugar Dough Variant
 
-- Replace **honey** with 96 grams (1/2 cup) of **coconut sugar**
+- Replace **honey** with 72 grams (1/2 cup) of **maple sugar**
 - Use 302 grams (1 1/3 cups) **whole milk**
 
 ## Directions
@@ -52,5 +52,5 @@
 1. Preheat oven to 350° F.
 1. Set pans in a warm place and let rise until nearly doubled (1-2 hours)
 1. Bake rolls in preheated oven until golden brown, about 40 minutes.
-1. Mix powdered sugar, melted butter, vanilla, and 2 tablespoons water until a thick icing forms. Add 1 extra tablespoon of water if the mixture is too thick.
+1. Mix sugar, melted butter, vanilla, and 2 tablespoons water until a thick icing forms. Add 1 extra tablespoon of water if the mixture is too thick.
 1. Pour and spread icing on rolls while they’re still hot.
