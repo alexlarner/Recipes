@@ -32,6 +32,19 @@
 - Replace **honey** with 72 grams (1/2 cup) of **maple sugar**
 - Use 302 grams (1 1/3 cups) **whole milk**
 
+## Maple Bacon Variant
+
+**Add:**
+
+- In **dough** 141 grams (5 ounces) **cooked bacon**
+
+**Replace:**
+
+- **Butter**
+    - In **dough** with 77 grams (6 tablespoons) **lard**
+    - In **filling** with 103 grams (1/2 cup) **lard**
+    - In **icing** with 52 grams (1/4 cup) **bacon grease**, melted
+
 ## Directions
 
 1. Heat milk to bloodwarm
