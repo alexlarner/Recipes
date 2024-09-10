@@ -80,8 +80,14 @@ Use as the base for these breads:
 
 **Add:**
 
-- 222 grams (1 1/2 cups) **blueberries**
+- 296 grams (2 cups) **blueberries**
+- 1 (13.5 ounce) can **coconut milk**
 - 3 grams (1/2 tablespoon) **lemon zest**, dried, ground
+
+**Use new amount:**
+
+- 200 grams (1 2/3 cups) **flour**
+    - Or 200 grams (2 1/2 cups) **oat flour**
 
 **Replace:**
 
