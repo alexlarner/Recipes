@@ -25,14 +25,15 @@
 - 192 grams (1 1/3 cups) **maple sugar**
 - 56 grams (1/4 cup) **butter**, melted
 - 30-45 grams (2-3 tablespoons) **water**
-- 4 grams (1 teaspoon) **vanilla extract**
 
-### Dry Sugar Dough Variant
+## Variants
+
+### Dry Sugar Dough
 
 - Replace **honey** with 72 grams (1/2 cup) of **maple sugar**
 - Use 302 grams (1 1/3 cups) **whole milk**
 
-## Maple Bacon Variant
+## Maple Bacon
 
 **Add:**
 
@@ -54,16 +55,14 @@
 1. Grease a bowl and place the dough in it
 1. Cover the bowl with a damp cloth
 1. Let dough rise in a warm place until doubled (1-2 hours)
-1. Roll out on a lightly floured surface into a 9“ wide rectangle ½ inch thick. Moisten dough with 2 tablespoons butter. Mix together brown sugar and cinnamon, and sprinkle mixture on top of the moistened dough. Roll up tightly, and fold in half
-1. Put dough in a 9”x5” pan
-1. Let dough rise for 1 hour.
-1. Bake in the oven at 350° F for 40 minutes, turning around the pan after 20 minutes.
-1. Take dough out of the bowl and roll out dough to about a 9” x 11” rectangle.
-1. Whip coconut sugar, butter, and cinnamon together, then spread onto dough.
-1. Roll up dough lengthwise and cut into 12 rolls.
-1. Place rolls in 2 round greased 9” baking pans.
-1. Preheat oven to 350° F.
+1. Dump dough out onto a lightly floured surface
+1. Roll out dough to about a 9” x 11” rectangle
+1. Whip [filling](#filling) ingredients together until light and spreadable
+1. Spread filling evenly onto dough
+1. Roll up dough lengthwise and cut into 12 rolls
+1. Place rolls in 2 round greased 9” baking pans
+1. Preheat oven to 350 F
 1. Set pans in a warm place and let rise until nearly doubled (1-2 hours)
-1. Bake rolls in preheated oven until golden brown, about 40 minutes.
-1. Mix sugar, melted butter, vanilla, and 2 tablespoons water until a thick icing forms. Add 1 extra tablespoon of water if the mixture is too thick.
-1. Pour and spread icing on rolls while they’re still hot.
+1. Bake rolls in preheated oven until golden brown, about 40 minutes
+1. Mix [icing](#icing) ingredients together thick icing forms. Add 1 extra tablespoon of water if the mixture is too thick.
+1. Pour and spread icing on rolls while they’re still hot
