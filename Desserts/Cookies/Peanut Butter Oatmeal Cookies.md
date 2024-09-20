@@ -13,7 +13,7 @@
     - Or 206 grams (2 1/2 cups and 4 teaspoons) **oat flour**
 - 10 grams (2 teaspoons) **baking soda**
 - 6 grams (1 teaspoon) **salt**
-- 5 grams (2 teaspoons) **cinnamon**
+- 5 grams (2 teaspoons) **cinnamon** (optional)
 - 167 grams (2 cups) **rolled oats**
 
 ## Dry Sweetener Variant
