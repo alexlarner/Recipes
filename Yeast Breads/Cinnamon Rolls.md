@@ -12,13 +12,13 @@
 - 448 grams (3 1/2 cups) **whole wheat bread flour**
 - 42 grams (3 tablespoons) **wheat gluten**
 - 10 grams (2 teaspoons) **kosher salt**
-- 8 grams (1 tablespoon) **cinnamon**
+- 8 grams (1 tablespoon) **Ceylon cinnamon**, ground
 
 ### Filling
 
 - 113 grams (1/2 cup) **butter**, melted
 - 72 grams (1/2 cup) of **maple sugar**
-- 12 grams (1 1/2 tablespoons) **cinnamon**
+- 12 grams (1 1/2 tablespoons) **Ceylon cinnamon**, ground
 
 ### Icing
 
@@ -33,11 +33,23 @@
 - Replace **honey** with 72 grams (1/2 cup) of **maple sugar**
 - Use 302 grams (1 1/3 cups) **whole milk**
 
-## Maple Bacon
+## Gingerbread
 
 **Add:**
 
-- In **dough** 141 grams (5 ounces) **cooked bacon**
+**Replace:**
+
+- **Honey** with 107 grams (1/3 cup) **baking molasses**
+
+- **Dough**
+    - 10 grams (2 tablespoons) **ginger**, ground
+    - 2 grams (1 teaspoon) **cloves**, ground
+    - 2 grams (1 teaspoon) **allspice**, ground
+    - 1/2 teaspoon **cardamom**, ground
+- **Icing**
+    - 20 grams (1 tablespoon) **baking molasses**
+
+## Maple Bacon
 
 **Replace:**
 
@@ -45,6 +57,10 @@
     - In **dough** with 77 grams (6 tablespoons) **lard**
     - In **filling** with 103 grams (1/2 cup) **lard**
     - In **icing** with 52 grams (1/4 cup) **bacon grease**, melted
+
+**Add:**
+
+- In **dough** 141 grams (5 ounces) **cooked bacon**
 
 ## Directions
 
