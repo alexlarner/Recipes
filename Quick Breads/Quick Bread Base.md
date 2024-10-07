@@ -185,7 +185,7 @@ Use as the base for these breads:
 
 **Add:**
 
-- 1 1/2 cups **zucchini**, finely grated
+- 250 grams (1 1/2 cups) **zucchini**, finely grated
 - 11 grams (1 1/2 tablespoon) **ceylon cinnamon**, ground
     - About 2 sticks
 
