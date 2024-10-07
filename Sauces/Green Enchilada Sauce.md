@@ -1,6 +1,6 @@
 # Green Enchilada Sauce
 
-Makes 2.5 cups
+Makes 5 cups
 
 ## Ingredients
 
