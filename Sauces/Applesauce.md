@@ -3,11 +3,10 @@
 ## Ingredients
 
 - 9 pounds **apples**, chopped into eighths, not peeled or cored
-- 2 cups **water**
-- 0.5 ounces **cinnamon**
+- 480 grams (2 cups) **water**
+- 16 grams (2 tablespoons) **cinnamon**
     - About 2 tablespoons
-- 0.25 ounces **nutmeg**, optional
-    - About 1 whole nutmeg
+- 7 grams (1 tablespoon) **nutmeg**, optional
 
 ## Directions
 
