@@ -10,6 +10,7 @@
 - 1 large egg
 - 85 grams (6 tablespoons) **butter**, softened
 - 448 grams (3 1/2 cups) **whole wheat bread flour**
+    - Or 476 grams (4 1/2 cups) **sprouted hard wheat flour**
 - 42 grams (3 tablespoons) **wheat gluten**
 - 10 grams (2 teaspoons) **kosher salt**
 - 8 grams (1 tablespoon) **Ceylon cinnamon**, ground
