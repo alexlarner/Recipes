@@ -18,12 +18,12 @@
 ### Filling
 
 - 113 grams (1/2 cup) **butter**, melted
-- 72 grams (1/2 cup) of **maple sugar**
+- 90 grams (1/2 cup) of **maple sugar**
 - 12 grams (1 1/2 tablespoons) **Ceylon cinnamon**, ground
 
 ### Icing
 
-- 192 grams (1 1/3 cups) **maple sugar**
+- 240 grams (1 1/3 cups) **maple sugar**
 - 56 grams (1/4 cup) **butter**, melted
 - 30-45 grams (2-3 tablespoons) **water**
 
@@ -31,7 +31,7 @@
 
 ### Dry Sugar Dough
 
-- Replace **honey** with 72 grams (1/2 cup) of **maple sugar**
+- Replace **honey** with 90 grams (1/2 cup) of **maple sugar**
 - Use 302 grams (1 1/3 cups) **whole milk**
 
 ## Gingerbread
