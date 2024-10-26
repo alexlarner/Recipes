@@ -11,6 +11,7 @@ Use as the base for these breads:
 
 - [Apple](#apple)
 - [Banana](#banana)
+- [Cranberry](#cranberry)
 - [Peanut Butter Bacon Banana](#peanut-butter-bacon-banana)
 - [Coconut](#coconut)
 - [Lemon](#lemon)
@@ -53,7 +54,8 @@ Use as the base for these breads:
 
 **Add:**
 
-- 453 grams (1 pound) **apples**, de-seeded & finely grated (weighed before deseeding)
+- 422 grams (2 cups) **apples**, shredded & puréed
+    - About 453 grams (1 pound) **apples** (weighed before deseeding)
 - 7 grams (1 tablespoon) **ceylon cinnamon**, ground
     - About 1 1/2 sticks
 - 1/2 teaspoon **nutmeg**, ground
@@ -69,7 +71,7 @@ Use as the base for these breads:
     - About 1 6" stick
 - 1/4 teaspoon **nutmeg**, ground
 - 29 grams (1/4 cup) **walnuts**, toasted (optional)
-- 60 grams (1/4 cup) **chocolate chips**, toasted (optional)
+- 60 grams (1/4 cup) **chocolate chips**, (optional)
 
 **Use new amount:**
 
@@ -126,6 +128,13 @@ Use as the base for these breads:
 **Replace:**
 
 - **Maple syrup** with 321 grams (1 cup) **coconut syrup**
+
+### Cranberry
+
+**Add:**
+
+- 162 grams (1 1/2 cups) fresh cranberries
+- 4 grams (2 teaspoons) **lemon zest**, dried, ground
 
 ### Lemon
 
