@@ -68,7 +68,7 @@
 1. Heat milk to bloodwarm
 1. Proof yeast in milk & sugar/honey in mixer bowl
 1. Add egg & butter, then all the dry ingredients
-1. Knead ingredients with mixer with dough hook on medium for 8 minutes
+1. Knead ingredients with mixer with dough hook on medium for 12 minutes
 1. Grease a bowl and place the dough in it
 1. Cover the bowl with a damp cloth
 1. Let dough rise in a warm place until doubled (1-2 hours)
