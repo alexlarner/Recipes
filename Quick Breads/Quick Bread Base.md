@@ -66,7 +66,8 @@ Use as the base for these breads:
 
 **Add:**
 
-- 680 grams (1.5 pounds) overripe **bananas** (weighed before peeling)
+- 415 grams (2 cups) overripe **bananas**
+    - About 680 grams (1.5 pounds) overripe **bananas** (weighed before peeling)
 - 4 grams (1/2 tablespoon) **Ceylon cinnamon**, ground
     - About 1 6" stick
 - 1/4 teaspoon **nutmeg**, ground
