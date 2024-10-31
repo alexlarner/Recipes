@@ -43,9 +43,9 @@
 **Add:**
 
 - **Dough**
-    - 10 grams (2 tablespoons) **ginger**, ground
-    - 2 grams (1 teaspoon) **cloves**, ground
-    - 2 grams (1 teaspoon) **allspice**, ground
+    - 18 grams (2 tablespoons) **ginger**, ground
+    - 4 grams (1 teaspoon) **cloves**, ground
+    - 4 grams (1 teaspoon) **allspice**, ground
     - 1/2 teaspoon **cardamom**, ground
 - **Icing**
     - 20 grams (1 tablespoon) **baking molasses**
