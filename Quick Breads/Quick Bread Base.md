@@ -143,8 +143,8 @@ Use as the base for these breads:
 
 - 1 (13.5 ounce) can **coconut milk**
 - 24 grams (2 tablespoons) **poppy seeds** (optional)
-    - Or 1 tablespoon **Szechuan peppercorns** ground
-- 8 grams (4 teaspoons) **lemon zest**, dried, ground
+    - 4 grams (1 tablespoon) **Szechuan peppercorns** ground
+- 10 grams (4 teaspoons) **lemon zest**, dried, ground
 
 **Use new amount:**
 
