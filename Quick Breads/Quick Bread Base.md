@@ -25,7 +25,7 @@ Use as the base for these breads:
 
 - 315 grams (1 cup) pure **maple syrup**
 - 113 grams (1/2 cup) **butter/coconut oil**, melted
-    - Or 90 grams (1/4 cup and 3 tablespoons) **lard**, melted
+    - Or 103 grams (1/2 cup) **lard**, melted
 - 2 **eggs**
 - 270 grams (2 1/4 cups) **flour/gluten-free flour**
     - Or 270 grams (3 1/4 cups and 2 tablespoons) **oat flour**
