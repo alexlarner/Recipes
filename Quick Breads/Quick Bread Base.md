@@ -144,7 +144,7 @@ Use as the base for these breads:
 - 1 (13.5 ounce) can **coconut milk**
 - 24 grams (2 tablespoons) **poppy seeds** (optional)
     - 4 grams (1 tablespoon) **Szechuan peppercorns** ground
-- 10 grams (4 teaspoons) **lemon zest**, dried, ground
+- 11 grams (4 teaspoons) **lemon zest**, dried, ground
 
 **Use new amount:**
 
@@ -157,6 +157,40 @@ Use as the base for these breads:
     - 321 grams (1 cup) **coconut syrup**
     - 220 grams (1 cup) **agave nectar**
     - 254 grams (3/4 cup) **honey**
+
+## Margarita Bread
+
+**Add:**
+
+- 1 (13.5 ounce) can **coconut milk**
+- 2 tablespoons **tequila**
+- 5.33 grams (2 teaspoons) **lime zest**, dried, ground
+- 5.33 grams (2 teaspoons) **orange zest**, dried, ground
+
+**Use new amount:**
+
+- 300 grams (2 1/2 cups) **flour/gluten-free flour**
+    - Or 300 grams (3 3/4 cups) **oat flour**
+
+    **Replace:**
+
+- **Maple syrup** with 220 grams (1 cup) **agave nectar**
+
+## Orange Bread
+
+**Add:**
+
+- 1 (13.5 ounce) can **coconut milk**
+- 79 grams (1/3 cup) **water**
+- 37 grams (1/3 cup) **coconut flour**
+- 8 grams (1 tablespoon) **orange zest**, dried, ground
+- 1 teaspoon **ginger**
+- 1 teaspoon **cardamom**
+
+**Use new amount:**
+
+- 200 grams (1 2/3 cups) **flour**
+    - Or 200 grams (2 1/2 cups) **oat flour**
 
 ### Pumpkin
 
