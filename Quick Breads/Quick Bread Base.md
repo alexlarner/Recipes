@@ -158,7 +158,7 @@ Use as the base for these breads:
     - 220 grams (1 cup) **agave nectar**
     - 254 grams (3/4 cup) **honey**
 
-## Margarita Bread
+### Margarita
 
 **Add:**
 
@@ -176,7 +176,7 @@ Use as the base for these breads:
 
 - **Maple syrup** with 220 grams (1 cup) **agave nectar**
 
-## Orange Bread
+### Orange
 
 **Add:**
 
