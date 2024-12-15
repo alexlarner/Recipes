@@ -106,7 +106,6 @@ Use as the base for these breads:
 **Add:**
 
 - 1 (13.5 ounce) can **coconut milk**
-- 79 grams (1/3 cup) **water**
 - 2 teaspoons **vanilla extract** (optional)
 - 37 grams (1/3 cup) **coconut flour**
 - 56 grams (1/2 cup) **shredded/flaked coconut** (optional)
@@ -116,10 +115,6 @@ Use as the base for these breads:
 
 - 200 grams (1 2/3 cups) **flour**
     - Or 200 grams (2 1/2 cups) **oat flour**
-
-**Replace:**
-
-- **Maple syrup** with 321 grams (1 cup) **coconut syrup**
 
 ### Cranberry
 
@@ -172,7 +167,6 @@ Use as the base for these breads:
 **Add:**
 
 - 1 (13.5 ounce) can **coconut milk**
-- 79 grams (1/3 cup) **water**
 - 37 grams (1/3 cup) **coconut flour**
 - 8 grams (1 tablespoon) **orange zest**, dried, ground
 - 1 teaspoon **ginger**
