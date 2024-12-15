@@ -12,9 +12,11 @@ Use as the base for these breads:
 - [Apple](#apple)
 - [Banana](#banana)
 - [Cranberry](#cranberry)
-- [Peanut Butter Bacon Banana](#peanut-butter-bacon-banana)
 - [Coconut](#coconut)
 - [Lemon](#lemon)
+- [Margarita](#margarita)
+- [Orange](#orange)
+- [Peanut Butter Bacon Banana](#peanut-butter-bacon-banana)
 - [Pumpkin](#pumpkin)
 - [Pumpkin Gingerbread](#pumpkin-gingerbread)
 - [Zucchini](#zucchini)
@@ -79,7 +81,7 @@ Use as the base for these breads:
 - 236 grams (3/4 cup) pure **maple syrup**
     - Or 241 grams (3/4 cup) **coconut syrup**
 
-### Blueberries
+### Blueberry
 
 **Add:**
 
@@ -98,17 +100,6 @@ Use as the base for these breads:
     - 160 grams (1/2 cup) **coconut syrup**
     - 110 grams (1/2 cup) **agave nectar**
     - 113 grams (1/3 cup) **spring honey**
-
-### Peanut Butter Bacon Banana
-
-**Add:**
-
-- 128 grams (1/2 cup) **peanut butter**
-- 2 tablespoons **dark rum**
-
-**Replace:**
-
-- **Butter/coconut oil** with **bacon grease** in equal amounts
 
 ### Coconut
 
@@ -191,6 +182,23 @@ Use as the base for these breads:
 
 - 200 grams (1 2/3 cups) **flour**
     - Or 200 grams (2 1/2 cups) **oat flour**
+
+### Peanut Butter Bacon Banana
+
+**Add:**
+
+- 415 grams (1 1/2 cups) overripe **bananas**
+    - About 680 grams (1.5 pounds) overripe **bananas** (weighed before peeling)
+- 4 grams (1/2 tablespoon) **Ceylon cinnamon**, ground
+    - About 1 6" stick
+- 1/4 teaspoon **nutmeg**, ground
+- 128 grams (1/2 cup) **peanut butter**
+- 2 tablespoons **dark rum**
+
+**Replace:**
+
+- **Butter/coconut oil** with **bacon grease** in equal amounts
+
 
 ### Pumpkin
 
