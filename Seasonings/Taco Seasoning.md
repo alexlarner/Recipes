@@ -11,7 +11,7 @@
         - Weighed after being stemmed & deseeded, but before toasting
 - 60 grams (1/2 cup and 2 tablespoons) **cumin seeds**
 - 98 grams (1/3 cup) **salt**
-- 13 grams (1/3 cup) **black peppercorns**
+- 51 grams (1/3 cup) **black peppercorns**
 - 12 grams (1/4 cup) **oregano**
 - 39 grams (1/4 cup) **garlic powder**
 - 20 grams (3 tablespoons) **onion powder**
