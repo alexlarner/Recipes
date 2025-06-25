@@ -2,16 +2,16 @@
 
 ## Ingredients
 
-- 1/2 cup **butter**
-- 1/4 cup **flour**
-- 1 teaspoon **salt**
-- 1 teaspoon **paprika**
-- 1 teaspoon **mustard**
-- 1 teaspoon **garlic powder**
-- 1 teaspoon **onion powder**
+- 113 grams (1/2 cup) **butter**
+- 60 grams (1/4 cup) **flour**
+- 6 grams (1 teaspoon) **salt**
+- 2 grams (1 teaspoon) **paprika**
+- 2 grams (1 teaspoon) **mustard**
+- 3 grams (1 teaspoon) **garlic powder**
+- 2 grams (1 teaspoon) **onion powder**
 - 1/4 teaspoon **black pepper**
-- 2 cups **whole milk**
-- 2 cups **cheese**, freshly grated
+- 488 grams (2 cups) **whole milk**
+- 6 ounces (2 cups) **cheese**, freshly grated
 - 1 pound **meat** (chicken, sausage, diced steak, etc.), hot
 - 1 pound **macaroni**
 
@@ -27,4 +27,5 @@
 1. Pull the sauce off the stove, let it cool until no longer bubbling
 1. Add the cheese to the sauce and stir until it's completely melted and mixed in
 1. Add the meat to the sauce
-1. Drain macaroni and pour sauce over the noodles
+1. Drain macaroni, reserving the pasta water, and pour sauce over the noodles
+1. Add pasta water as needed to thin out the sauce
