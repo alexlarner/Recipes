@@ -2,8 +2,8 @@
 
 ## Ingredients
 
-- 113 grams (1/2 cup) **butter**
-- 60 grams (1/4 cup) **flour**
+- 30 grams (2 tablespoons) **butter**
+- 30 grams (1/4 cup) **flour**
 - 6 grams (1 teaspoon) **salt**
 - 2 grams (1 teaspoon) **paprika**
 - 2 grams (1 teaspoon) **mustard**
