@@ -4,20 +4,15 @@ Makes 1 cup
 
 ## Ingredients
 
-- 1.5 ounces **dried peppers**, ground
-    - Or 1/2 cup **dried peppers**, ground
-    - 2 ounces **ancho peppers**
+- 42 grams (1/2 cups) **dried peppers**, ground
+    - 56 grams **ancho peppers**
         - Weighed after being stemmed & deseeded, but before being toasted
-    - 2 ounces **guajillo peppers**
+    - 56 grams **guajillo peppers**
         - Weighed after being stemmed & deseeded, but before being toasted
-- 0.25 ounces **mexican oregano**
-    - Or 3 tablespoons
-- 0.6 ounces **cumin seed**
-    - Or 2 tablespoons
-- 1 ounces **garlic powder**
-    - Or 2 tablespoons
-- 0.4 ouncess **onion powder**
-    - Or 1 tablespoon
+- 9 grams (3 tablespoons) **mexican oregano**
+- 12 grams (2 tablespoons) **cumin seed**
+- 19 grams (2 tablespoons) **garlic powder**
+- 7 grams (1 tablespoon) **onion powder**
 
 ## Directions
 
