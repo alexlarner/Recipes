@@ -58,6 +58,7 @@ Use as the base for these breads:
 
 - 422 grams (2 cups) **apples**, shredded & puréed
     - About 453 grams (1 pound) **apples** (weighed before deseeding)
+    - *Yes this is intentionally more produce than most of the other recipes*
 - 7 grams (1 tablespoon) **ceylon cinnamon**, ground
     - About 1 1/2 sticks
 - 1/2 teaspoon **nutmeg**, ground
