@@ -2,9 +2,9 @@
 
 ## Ingredients
 
-- 1 pound **butter**, unsalted
+- 454 grams (1 pound) **butter**, unsalted
 - 50 grams (1/2 cup) **parmesan**, grated (optional)
-- 2 bulbs **garlic**
+- 95 grams (2 bulbs) **garlic**, peeled, minced
 - 17 grams (1/4 cup) **oregano**, fresh, minced
     - Or 4 grams (4 teaspoons) **oregano**, dried
 - 16 grams (1/4 cup) **basil**, fresh, minced
