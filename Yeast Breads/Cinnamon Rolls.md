@@ -65,21 +65,44 @@
 
 ## Directions
 
+### Making the dough
+
 1. Heat milk to bloodwarm
 1. Proof yeast in milk & sugar/honey in mixer bowl
 1. Add egg & butter, then all the dry ingredients
 1. Knead ingredients with mixer with dough hook on medium for 12 minutes
+    1. Or until a you can stretch a golf-ball sized piece of dough, hold it up to a light, and be able to see light through it without it tearing
+
+### First Rise
+
+1. Boil 1-2 quarts of water
 1. Grease a bowl and place the dough in it
-1. Cover the bowl with a damp cloth
-1. Let dough rise in a warm place until doubled (1-2 hours)
+1. Put the bowl in the oven with the oven off
+1. Put another heat-safe bowl in the oven on a rack below the first bowl
+1. Pour the boiling water in the this second bowl
+1. Let dough rise in the oven (with the door closed) until doubled in size (1-2 hours)
+
+### Assembly
+
 1. Dump dough out onto a lightly floured surface
 1. Roll out dough to about a 9” x 11” rectangle
 1. Whip [filling](#filling) ingredients together until light and spreadable
 1. Spread filling evenly onto dough
 1. Roll up dough lengthwise and cut into 12 rolls
 1. Place rolls in 2 round greased 9” baking pans
+
+### Second Rise
+
+1. Empty the bowl in the oven with water in it
+1. Boil 1-2 quarts of water
+1. Put the pans in the oven with the oven off
+1. Pour the boiling water in the the same bowl as before
+1. Let dough rise in the oven (with the door closed) until doubled in size (1-2 hours)
+
+### Baking and Finishing steps
+
+1. Remove the bowl of water from the oven
 1. Preheat oven to 350 F
-1. Set pans in a warm place and let rise until nearly doubled (1-2 hours)
 1. Bake rolls in preheated oven until golden brown, about 40 minutes
 1. Mix [icing](#icing) ingredients together thick icing forms. Add 1 extra tablespoon of water if the mixture is too thick.
 1. Pour and spread icing on rolls while they’re still hot
