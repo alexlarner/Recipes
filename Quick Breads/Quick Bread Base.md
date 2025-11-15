@@ -15,6 +15,7 @@ Use as the base for these breads:
 - [Coconut](#coconut)
 - [Lemon](#lemon)
 - [Margarita](#margarita)
+- [Mayan Chocolate](#mayan-chocolate)
 - [Orange](#orange)
 - [Peanut Butter Bacon Banana](#peanut-butter-bacon-banana)
 - [Pumpkin](#pumpkin)
@@ -162,6 +163,17 @@ Use as the base for these breads:
     **Replace:**
 
 - **Maple syrup** with 220 grams (1 cup) **agave nectar**
+
+## Mayan Chocolate
+
+**Add:**
+
+- 1 (13.5 ounce) can **coconut milk**
+    - Or 2 cups **buttermilk**
+- 43 grams (1/2 cup) **cocoa powder**
+- 5 grams (2 teaspoons) **Ceylon cinnamon**
+- 1/2 teaspoon **cayenne pepper**
+    - Or 1 teaspoon **ancho/guajillo peppers**, ground
 
 ### Orange
 
