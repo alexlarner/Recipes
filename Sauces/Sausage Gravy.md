@@ -13,7 +13,8 @@
 
 ## Directions
 
+1. Mix flour & spices
 1. Cook sausage in a skillet
-1. Add flour to skillet stir and cook for 5 minutes, stirring regularly but not constantly, just enough so it doesn't burn on the bottom
+1. Add flour mixture to the skillet stir and cook for 5 minutes, stirring regularly but not constantly, just enough so it doesn't burn on the bottom
 1. Pour milk in a cup at a time while mixing, adding another cup only when the mixture has thickened
 1. Cook mixture on medium heat until it's thick enough to coat the back of a spoon. It should leave a line if you run your finger through the sauce.

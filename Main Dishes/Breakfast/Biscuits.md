@@ -9,6 +9,7 @@
 - 6 grams (1 teaspoon) **salt**
 - 42 grams (2 tablespoons) **honey**
 - 366 grams (1 1/2 cups) **buttermilk**
+    - Or 1 1/2 cups **whole milk yogurt**
 
 ## Directions
 
