@@ -2,21 +2,20 @@
 
 ## Ingredients
 
-- 4 cups **cake flour**
-- 2 tablespoons **baking powder**
-- 1 teaspoon **baking soda**
-- 1 teaspoon **salt**
-- 2 tablespoons **honey**
-- 1/2 pound **lard**, frozen
-- 1 1/2 cups **buttermilk**
+- 480 grams (4 cups) **flour**
+- 205 grams (1 cup) **lard**, frozen
+- 30 grams (2 tablespoons) **baking powder**
+- 5 grams (1 teaspoon) **baking soda**
+- 6 grams (1 teaspoon) **salt**
+- 42 grams (2 tablespoons) **honey**
+- 366 grams (1 1/2 cups) **buttermilk**
 
 ## Directions
 
 1. Mix dry ingredients
-1. Shred lard with large side of grater
-1. Mix grated lard into flour mixture
+1. Cut lard into flour mixture
 1. Add buttermilk and honey to flour mixture and mix until just combined
-1. Roll out dough to to 1/2” thickness
+1. Pat (don't roll) out dough to to 1/2” thickness
 1. Cut dough in half and stack it on itself
 1. Repeat the 2 steps above 4-6 times
     1. If the lard in the dough starts to melt, put the dough in the fridge for 30 minutes
@@ -37,4 +36,5 @@
 1. Set frozen biscuits touching each other in skillet
     - Make sure they’re touching, it gives them height
 1. Cook biscuits for 25-30 minutes
+    1. Or 10-12 minutes if fresh instead of frozen
 1. Brush cooked biscuits with melted butter
