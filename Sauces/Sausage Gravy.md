@@ -7,7 +7,7 @@
 - 6 grams (1 teaspoon) **salt**
 - 5 grams (2 teaspoons) **black pepper**
     - Or 2 grams (1 teaspoon) **white pepper**
-- 5 grams (1/2 teaspoon) **garlic powder**
+- 5 grams (1 1/2 teaspoon) **garlic powder**
 - 2 grams (1 teaspoon) **onion powder**
 - 732 grams (3 cups) **whole milk**
 
