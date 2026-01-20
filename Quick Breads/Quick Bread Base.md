@@ -12,6 +12,7 @@ Use as the base for these breads:
 - [Apple](#apple)
 - [Banana](#banana)
 - [Cranberry](#cranberry)
+- [Chocolate](#chocolate)
 - [Coconut](#coconut)
 - [Lemon](#lemon)
 - [Margarita](#margarita)
@@ -103,6 +104,20 @@ Use as the base for these breads:
     - 110 grams (1/2 cup) **agave nectar**
     - 113 grams (1/3 cup) **spring honey**
 
+### Chocolate
+
+**Add:**
+
+- 1 (13.5 ounce) can **coconut milk**
+    - Or 2 cups **yogurt**
+- 57 grams (2/3 cup) **cocoa powder**
+- 37 grams (1/3 cup) **coconut flour**
+
+**Use new amount:**
+
+- 200 grams (1 2/3 cups) **flour**
+    - Or 200 grams (2 1/2 cups) **oat flour**
+
 ### Coconut
 
 **Add:**
@@ -164,7 +179,7 @@ Use as the base for these breads:
 
 - **Maple syrup** with 220 grams (1 cup) **agave nectar**
 
-## Mayan Chocolate
+### Mayan Chocolate
 
 **Add:**
 
