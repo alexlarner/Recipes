@@ -170,10 +170,16 @@ Use as the base for these breads:
 
 - 1 (13.5 ounce) can **coconut milk**
     - Or 2 cups **buttermilk**
-- 43 grams (1/2 cup) **cocoa powder**
+- 57 grams (2/3 cup) **cocoa powder**
 - 10 grams (4 teaspoons) **Ceylon cinnamon**
 - 1 teaspoon **cayenne pepper**
     - Or 2 teaspoons **ancho/guajillo peppers**, ground
+- 37 grams (1/3 cup) **coconut flour**
+
+**Use new amount:**
+
+- 200 grams (1 2/3 cups) **flour**
+    - Or 200 grams (2 1/2 cups) **oat flour**
 
 ### Orange
 
