@@ -8,27 +8,24 @@
 - 1/3 cup **maple syrup**
 - 1 dozen eggs
 - 1 pound **breakfast sausage**
-- 1 pound **bacon**, chopped into bite-size pieces before cooking
+- 1 **onion**, sliced into strips
 - 1 bulb **garlic**, minced
 - 10-15 **thai chilis**, sliced
-- 1/4 cup **green onions**, sliced (green & whites separated)
+- 1 tablespoon **ginger**, dried & powdered
 - 1/4 cup **lard**
-- 1/4 cup **parsley**, minced
+- 1/4 cup **bacon grease**
+    - Enough for frying the eggs and the onions
 
 ## Directions
 
-1. Mix the maple syrup and fish sauce into the rice
-1. Crack 4 eggs into a bowl and scramble them, but don't cook them
-1. Add the scrabled raw eggs to the rice
-1. Fry up the remaining 8 eggs over easy or over medium in a skillet
-    1. Fried in any fat/oil, but lard is preferred
-        1. This is not the 1/4 cup fat/oil listed above
-1. Dice the fried eggs and add to the rice
+1. Mix the maple syrup, ginger, and fish sauce into the rice
+1. Fry up the eggs in half of the bacon grease until they're over easy or over medium in a skillet
+1. Dice the fried eggs and add to a bowl
 1. Cook up and the breakfast sausage until sausage is no longer pink, chopping it into bite-sized pieces while it's cooking
-1. Add the sausage to the rice mixture
-1. Fry the bacon, garlic, peppers, and **whites** of the green onions until the bacon is cooked
-1. Add the bacon mixture to the rice
-1. Melt the lard in a dutch oven, and get it as hot as you can without smoking
-1. Add in rice mixture and stir thouroughly until there are no clumps of rice
-1. Fry the rice mixture for 3-5 minutes, stirring every minute, so all the rice has some time on the bottom of the pan, and until the scrambled eggs are cooked
-1. Take the rice off the heat and add the parsley and the greens of the green onions
+1. Add the sausage to diced eggs
+1. Fry the onions, garlic, peppers, and dried ginger in the remaining bacon grease until the onions are translucent and turning golden around the edges
+1. Add the onion miture to the egg mixture
+1. Get a pan hot enough so it's just barely smoking
+1. Melt the lard in the pan and add the rice
+1. Stir the rice frequently until it's piping hot
+1. Add everything else to the rice and cook for 2 minutes
