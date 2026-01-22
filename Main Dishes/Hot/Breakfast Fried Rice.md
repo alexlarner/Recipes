@@ -6,7 +6,7 @@
 - 1/3 cup **fish sauce**
     - This should be a sauce that's made just of fish, salt, and sugar
 - 1/3 cup **maple syrup**
-- 1 dozen eggs
+- 1 dozen **eggs**
 - 1 pound **breakfast sausage**
 - 1 **onion**, sliced into strips
 - 1 bulb **garlic**, minced
