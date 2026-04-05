@@ -5,14 +5,27 @@ Makes 1 9" x 5" loaf
 ## Ingredients
 
 - 284 grams (1 1/4 cups) **whole milk**
+    - Or 270 grams (1 1/4 cups) **water**
 - 113 grams (1/3 cup) **honey**
 - 8 grams (2 teaspoons) **instant yeast**
 - 1 large egg
 - 85 grams (6 tablespoons) **butter**, softened
+    - Or 70 grams **lard**
 - 448 grams (3 1/2 cups) **whole wheat bread flour**
     - Or 476 grams (4 1/2 cups) **sprouted hard wheat flour**
 - 42 grams (3 tablespoons) **wheat gluten**
 - 10 grams (2 teaspoons) **kosher salt**
+
+### Freshly Milled Flour
+
+**Remove**:
+
+- **Wheat gluten**
+
+**Replace amount:**
+
+- Milk/water with 227/240 grams (1 cup) **milk/water**
+- 480 grams (4 cups) **hard red wheat flour**
 
 ## Directions
 
@@ -22,6 +35,7 @@ Makes 1 9" x 5" loaf
 1. Proof yeast in milk & honey in mixer bowl
 1. Add egg & butter, then all the dry ingredients
 1. Knead ingredients with mixer with dough hook on medium for 12 minutes
+    1. If using a KitchenAid mixer, [don't go above speed 2](https://producthelp.kitchenaid.com/Countertop_Appliances/Stand_Mixers/Product_Info/Stand_Mixer_Tips_and_Tricks/Making_Bread_in_a_KitchenAid_Stand_Mixer)
     1. Or until a you can stretch a golf-ball sized piece of dough, hold it up to a light, and be able to see light through it without it tearing
 
 ### First Rise
