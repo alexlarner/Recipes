@@ -25,7 +25,7 @@ Makes 1 9" x 5" loaf
 **Replace amount:**
 
 - Milk/water with 227/240 grams (1 cup) **milk/water**
-- 480 grams (4 cups) **hard red wheat flour**
+- 480 grams (4 cups) **hard red wheat flour**, freshly milled
 
 ## Directions
 
