@@ -96,6 +96,7 @@ Use as the base for these breads:
 
 - 200 grams (1 2/3 cups) **flour**
     - Or 200 grams (2 1/2 cups) **oat flour**
+- 43 grams (3 tablespoons) **cococonut oil**
 
 **Replace:**
 
@@ -132,6 +133,7 @@ Use as the base for these breads:
 
 - 200 grams (1 2/3 cups) **flour**
     - Or 200 grams (2 1/2 cups) **oat flour**
+- 43 grams (3 tablespoons) **cococonut oil**
 
 ### Cranberry
 
@@ -153,6 +155,7 @@ Use as the base for these breads:
 
 - 300 grams (2 1/2 cups) **flour/gluten-free flour**
     - Or 300 grams (3 3/4 cups) **oat flour**
+- 43 grams (3 tablespoons) **cococonut oil**
 
 **Replace:**
 
@@ -174,8 +177,9 @@ Use as the base for these breads:
 
 - 300 grams (2 1/2 cups) **flour/gluten-free flour**
     - Or 300 grams (3 3/4 cups) **oat flour**
+- 43 grams (3 tablespoons) **cococonut oil**
 
-    **Replace:**
+**Replace:**
 
 - **Maple syrup** with 220 grams (1 cup) **agave nectar**
 
@@ -195,6 +199,7 @@ Use as the base for these breads:
 
 - 200 grams (1 2/3 cups) **flour**
     - Or 200 grams (2 1/2 cups) **oat flour**
+- 43 grams (3 tablespoons) **cococonut oil**
 
 ### Orange
 
@@ -210,6 +215,7 @@ Use as the base for these breads:
 
 - 200 grams (1 2/3 cups) **flour**
     - Or 200 grams (2 1/2 cups) **oat flour**
+- 43 grams (3 tablespoons) **cococonut oil**
 
 ### Peanut Butter Bacon Banana
 
@@ -226,7 +232,6 @@ Use as the base for these breads:
 **Replace:**
 
 - **Butter/coconut oil** with **bacon grease** in equal amounts
-
 
 ### Pumpkin
 
