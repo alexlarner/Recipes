@@ -110,14 +110,12 @@ Use as the base for these breads:
 **Add:**
 
 - 1 (13.5 ounce) can **coconut milk**
-    - Or 2 cups **yogurt**
 - 57 grams (2/3 cup) **cocoa powder**
 - 37 grams (1/3 cup) **coconut flour**
 
 **Use new amount:**
 
-- 200 grams (1 2/3 cups) **flour**
-    - Or 200 grams (2 1/2 cups) **oat flour**
+- 31 grams (3 tablespoons) **cococonut oil**
 
 ### Coconut
 
