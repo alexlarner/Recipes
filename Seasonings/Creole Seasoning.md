@@ -4,16 +4,17 @@
 
 ## Ingredients
 
-* 1 1/4 cups **paprika**
-* 2/3 cup **salt**
-* 1/2 cup **onion powder**
-* 1/2 cup **garlic powder**
-* 1/2 cup **oregano**, dried
-* 1/2 cup **basil**, dried
-* 1/4 cup **thyme**, dried
-* 1/4 cup **black peppercorns**
-* 1/4 cup **white peppercorns**
-* 2 tablespoons **cayenne pepper**
+- 192 grams (2/3 cup) **salt**
+    - Or 192 grams (1 1/3 cups and 1 1/2 tablespoons) **salt**
+- 136 grams (1 1/4 cups) **paprika**
+- 77 grams (1/2 cup) **garlic powder**
+- 55 grams (1/2 cup) **onion powder**
+- 24 grams (1/2 cup) **oregano**, dried
+- 12 grams (1/2 cup) **basil**, dried
+- 17 grams (1/4 cup) **thyme**, dried
+- 10 grams (2 tablespoons) **cayenne pepper**
+- 36 grams (1/4 cup) **black peppercorns**
+- 36 grams (1/4 cup) **white peppercorns**
 
 ## Directions
 
