@@ -11,6 +11,8 @@ Use as the base for these breads:
 
 - [Apple](#apple)
 - [Banana](#banana)
+- [Blackberry](#blackberry)
+- [Blueberry](#blueberry)
 - [Cranberry](#cranberry)
 - [Chocolate](#chocolate)
 - [Coconut](#coconut)
@@ -84,6 +86,19 @@ Use as the base for these breads:
 - 236 grams (3/4 cup) pure **maple syrup**
     - Or 241 grams (3/4 cup) **coconut syrup**
 
+### Blackberry
+
+**Add:**
+
+- 227 grams (8 ounces/2 cups) **blueberries**
+- 1 (13.5 ounce) can **coconut milk**
+
+**Use new amount:**
+
+- 300 grams (2 1/4 cups) **flour**
+    - Or 300 grams (3 1/4 cups and 2 tablespoons) **oat flour**
+- 43 grams (3 tablespoons) **cococonut oil**
+
 ### Blueberry
 
 **Add:**
@@ -94,16 +109,9 @@ Use as the base for these breads:
 
 **Use new amount:**
 
-- 200 grams (1 2/3 cups) **flour**
-    - Or 200 grams (2 1/2 cups) **oat flour**
+- 300 grams (2 1/4 cups) **flour**
+    - Or 300 grams (3 1/4 cups and 2 tablespoons) **oat flour**
 - 43 grams (3 tablespoons) **cococonut oil**
-
-**Replace:**
-
-- **Maple syrup** with one of these:
-    - 160 grams (1/2 cup) **coconut syrup**
-    - 110 grams (1/2 cup) **agave nectar**
-    - 113 grams (1/3 cup) **spring honey**
 
 ### Chocolate
 
