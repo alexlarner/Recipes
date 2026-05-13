@@ -11,6 +11,7 @@ Use as the base for these breads:
 
 - [Apple](#apple)
 - [Banana](#banana)
+- [Banana Chocolate](#banana-chocolate)
 - [Blackberry](#blackberry)
 - [Blueberry](#blueberry)
 - [Cranberry](#cranberry)
@@ -85,6 +86,17 @@ Use as the base for these breads:
 
 - 236 grams (3/4 cup) pure **maple syrup**
     - Or 241 grams (3/4 cup) **coconut syrup**
+
+### Banana Chocolate
+
+**Add:**
+
+- 415 grams (1 1/2 cups) overripe **bananas**
+    - About 680 grams (1.5 pounds) overripe **bananas** (weighed before peeling)
+- 57 grams (2/3 cup) **cocoa powder**
+- 4 grams (1/2 tablespoon) **Ceylon cinnamon**, ground
+    - About 1 6" stick
+- 1/4 teaspoon **nutmeg**, ground
 
 ### Blackberry
 
