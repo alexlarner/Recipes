@@ -34,7 +34,7 @@ Use as the base for these breads:
 - 113 grams (1/2 cup) **butter/coconut oil**, melted
     - Or 103 grams (1/2 cup) **lard**, melted
 - 2 **eggs**
-- 270 grams (2 1/4 cups) **flour/gluten-free flour**
+- 270 grams (2 1/4 cups) **flour**
     - Or 270 grams (3 1/4 cups and 2 tablespoons) **oat flour**
 - 5 grams (1 teaspoon) **baking soda**
 - 3 grams (1/2 teaspoon) **salt**
@@ -43,7 +43,7 @@ Use as the base for these breads:
 ### Dry Sweetener Variant
 
 - Replace **maple syrup** with 192 grams (1 cup) **coconut sugar**
-- Use 240 grams (2 cups) **flour/gluten-free flour**
+- Use 240 grams (2 cups) **flour**
     - Or 240 grams (3 cups) **oat flour**
 
 ### Streusel Topping (optional)
@@ -93,7 +93,7 @@ Use as the base for these breads:
 
 - 415 grams (1 1/2 cups) overripe **bananas**
     - About 680 grams (1.5 pounds) overripe **bananas** (weighed before peeling)
-- 57 grams (2/3 cup) **cocoa powder**
+- 64 grams (2/3 cup) **cacao powder**
 - 4 grams (1/2 tablespoon) **Ceylon cinnamon**, ground
     - About 1 6" stick
 - 1/4 teaspoon **nutmeg**, ground
@@ -109,7 +109,7 @@ Use as the base for these breads:
 
 - 300 grams (2 1/4 cups) **flour**
     - Or 300 grams (3 1/4 cups and 2 tablespoons) **oat flour**
-- 43 grams (3 tablespoons) **cococonut oil**
+- 43 grams (3 tablespoons) **coconut oil**
 
 ### Blueberry
 
@@ -123,19 +123,20 @@ Use as the base for these breads:
 
 - 300 grams (2 1/4 cups) **flour**
     - Or 300 grams (3 1/4 cups and 2 tablespoons) **oat flour**
-- 43 grams (3 tablespoons) **cococonut oil**
+- 43 grams (3 tablespoons) **coconut oil**
 
 ### Chocolate
 
 **Add:**
 
 - 1 (13.5 ounce) can **coconut milk**
-- 57 grams (2/3 cup) **cocoa powder**
-- 37 grams (1/3 cup) **coconut flour**
+- 64 grams (2/3 cup) **cacao powder**
 
 **Use new amount:**
 
-- 31 grams (3 tablespoons) **cococonut oil**
+- 300 grams (2 1/4 cups) **flour**
+    - Or 300 grams (3 1/4 cups and 2 tablespoons) **oat flour**
+- 31 grams (3 tablespoons) **coconut oil**
 
 ### Coconut
 
@@ -151,7 +152,7 @@ Use as the base for these breads:
 
 - 200 grams (1 2/3 cups) **flour**
     - Or 200 grams (2 1/2 cups) **oat flour**
-- 43 grams (3 tablespoons) **cococonut oil**
+- 43 grams (3 tablespoons) **coconut oil**
 
 ### Cranberry
 
@@ -171,9 +172,9 @@ Use as the base for these breads:
 
 **Use new amount:**
 
-- 300 grams (2 1/2 cups) **flour/gluten-free flour**
+- 300 grams (2 1/2 cups) **flour**
     - Or 300 grams (3 3/4 cups) **oat flour**
-- 43 grams (3 tablespoons) **cococonut oil**
+- 43 grams (3 tablespoons) **coconut oil**
 
 **Replace:**
 
@@ -193,9 +194,9 @@ Use as the base for these breads:
 
 **Use new amount:**
 
-- 300 grams (2 1/2 cups) **flour/gluten-free flour**
+- 300 grams (2 1/2 cups) **flour**
     - Or 300 grams (3 3/4 cups) **oat flour**
-- 43 grams (3 tablespoons) **cococonut oil**
+- 43 grams (3 tablespoons) **coconut oil**
 
 **Replace:**
 
@@ -207,7 +208,7 @@ Use as the base for these breads:
 
 - 1 (13.5 ounce) can **coconut milk**
     - Or 2 cups **buttermilk**
-- 57 grams (2/3 cup) **cocoa powder**
+- 64 grams (2/3 cup) **cacao powder**
 - 10 grams (4 teaspoons) **Ceylon cinnamon**
 - 1 teaspoon **cayenne pepper**
     - Or 2 teaspoons **ancho/guajillo peppers**, ground
@@ -217,7 +218,7 @@ Use as the base for these breads:
 
 - 200 grams (1 2/3 cups) **flour**
     - Or 200 grams (2 1/2 cups) **oat flour**
-- 43 grams (3 tablespoons) **cococonut oil**
+- 43 grams (3 tablespoons) **coconut oil**
 
 ### Orange
 
@@ -233,7 +234,7 @@ Use as the base for these breads:
 
 - 200 grams (1 2/3 cups) **flour**
     - Or 200 grams (2 1/2 cups) **oat flour**
-- 43 grams (3 tablespoons) **cococonut oil**
+- 43 grams (3 tablespoons) **coconut oil**
 
 ### Peanut Butter Bacon Banana
 
