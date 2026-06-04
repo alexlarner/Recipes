@@ -24,6 +24,7 @@ Use as the base for these breads:
 - [Peanut Butter Bacon Banana](#peanut-butter-bacon-banana)
 - [Pumpkin](#pumpkin)
 - [Pumpkin Gingerbread](#pumpkin-gingerbread)
+- [Strawberry](#strawberry)
 - [Zucchini](#zucchini)
 
 ## Ingredients
@@ -31,8 +32,8 @@ Use as the base for these breads:
 ### Batter
 
 - 315 grams (1 cup) pure **maple syrup**
-- 113 grams (1/2 cup) **butter/coconut oil**, melted
-    - Or 103 grams (1/2 cup) **lard**, melted
+- 113 grams (1/2 cup) **butter/coconut oil**
+    - Or 103 grams (1/2 cup) **lard**
 - 2 **eggs**
 - 270 grams (2 1/4 cups) **flour**
     - Or 270 grams (3 1/4 cups and 2 tablespoons) **oat flour**
@@ -136,7 +137,13 @@ Use as the base for these breads:
 
 - 300 grams (2 1/4 cups) **flour**
     - Or 300 grams (3 1/4 cups and 2 tablespoons) **oat flour**
-- 31 grams (3 tablespoons) **coconut oil**
+- 43 grams (3 tablespoons) **coconut oil**
+
+**Extra Instructions:**
+
+1. Melt coconut oil
+1. Mix cacao powder into the melted coconut oil and let sit for 3-5 minutes
+1. Proceed with normal directions
 
 ### Coconut
 
@@ -219,6 +226,12 @@ Use as the base for these breads:
     - Or 300 grams (3 3/4 cups) **oat flour**
 - 43 grams (3 tablespoons) **coconut oil**
 
+**Extra Instructions:**
+
+1. Melt coconut oil
+1. Mix cinnamon, peppers, and cacao powder into the melted coconut oil and let sit for 3-5 minutes
+1. Proceed with normal directions
+
 ### Orange
 
 **Add:**
@@ -284,6 +297,18 @@ Use as the base for these breads:
 - 1/4 teaspoons **cloves**, ground
 - 25 grams (1/4 cup) **pecans**, toasted (optional)
 
+### Strawberry
+
+**Add:**
+
+- 348 grams (1 1/2 cups) **strawberries**, pureed
+    - About 2 1/2 cups whole strawberries
+
+**Use new amount:**
+
+- 236 grams (3/4 cup) pure **maple syrup**
+    - Or 241 grams (3/4 cup) **coconut syrup**
+
 ### Zucchini
 
 **Add:**
@@ -300,7 +325,6 @@ Use as the base for these breads:
     - **Muffins**: 365 F
 1. Grease a 9”x5” loaf pan/mini-loaf pan/muffin pan/jumbo muffin pan
 1. Combine wet ingredients
-    - If using coconut oil, do not add that to the wet ingredients
 1. Combine dry ingredients and sift
 1. If using nuts, add them to the sifted **dry** ingredients
 1. Add dry ingredients to wet ingredients and mix until no clumps of dry ingredients are seen
