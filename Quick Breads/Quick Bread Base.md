@@ -212,12 +212,11 @@ Use as the base for these breads:
 - 10 grams (4 teaspoons) **Ceylon cinnamon**
 - 1 teaspoon **cayenne pepper**
     - Or 2 teaspoons **ancho/guajillo peppers**, ground
-- 37 grams (1/3 cup) **coconut flour**
 
 **Use new amount:**
 
-- 200 grams (1 2/3 cups) **flour**
-    - Or 200 grams (2 1/2 cups) **oat flour**
+- 300 grams (2 1/2 cups) **flour**
+    - Or 300 grams (3 3/4 cups) **oat flour**
 - 43 grams (3 tablespoons) **coconut oil**
 
 ### Orange
