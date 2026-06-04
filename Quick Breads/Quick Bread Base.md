@@ -306,6 +306,8 @@ Use as the base for these breads:
 
 **Use new amount:**
 
+- 300 grams (2 1/2 cups) **flour**
+    - Or 300 grams (3 3/4 cups) **oat flour**
 - 236 grams (3/4 cup) pure **maple syrup**
     - Or 241 grams (3/4 cup) **coconut syrup**
 
