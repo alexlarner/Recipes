@@ -268,7 +268,7 @@ Use as the base for these breads:
 
 **Add:**
 
-- 263 grams (1 cup) **pumpkin puree**, fresh
+- 395 grams (1 1/2 cups) **pumpkin puree**, fresh
 - 79 grams (1/4 cups) **maple syrup**
 - 1/2 teaspoon **cardamom**, ground
 - 1/2 teaspoon **cinnamon**, ground
@@ -285,7 +285,7 @@ Use as the base for these breads:
 
 **Add:**
 
-- 263 grams (1 cup) **pumpkin puree**, fresh
+- 395 grams (1 1/2 cups) **pumpkin puree**, fresh
 - 80 grams (1/4 cup) **baking molasses**
 - 1 teaspoon **ginger**, ground
 - 1/2 teaspoon **cardamom**, ground
