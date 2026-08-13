@@ -4,13 +4,29 @@
 
 - 170 grams (3/4 cup) **coconut oil**, unrefined
 - 72 grams (3/4 cup) **cacao powder**
-- 177 (1/2 cup and 1 tablespoon) **maple syrup**
+- 177 grams (1/2 cup and 1 tablespoon) **maple syrup**
 - 3/8 teaspoon **salt**
-- Coarse sea salt (for garnish)
+- Coarse sea salt (optional, for garnish)
 
 ### Orange
 
 Add 4 grams (1 1/2 teaspoons) **orange zest**, dried and powdered
+
+### Chili
+
+Add 1 1/2 teaspoons **ancho peppers**, dried, toasted, and ground
+
+### Gingerbread
+
+- Use 138 grams (1/3 cup and 1 tablespoon) maple syrup
+- Add 40 grams (2 tablespoons) baking molasses
+- Add 1 1/2 teaspoons spice blend (ratio by volume):
+    - 4 parts **ginger**
+    - 2 parts **cardamom**
+    - 2 parts **cinnamon**
+    - 2 parts **nutmeg**
+    - 1 part **allspice**
+    - 1 part **cloves**
 
 ## Directions
 
