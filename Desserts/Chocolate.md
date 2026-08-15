@@ -14,7 +14,7 @@ Add 4 grams (1 1/2 teaspoons) **orange zest**, dried and powdered
 
 ### Chili
 
-Add 1 1/2 teaspoons **ancho peppers**, dried, toasted, and ground
+Add 5 grams (1 tablespoon) **ancho peppers**, dried, toasted, and ground
 
 ### Gingerbread
 
