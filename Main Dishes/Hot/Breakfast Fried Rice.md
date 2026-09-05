@@ -6,7 +6,8 @@
     - This is 3 rice-cooker cups of dry rice (2 1/4 cups dry rice)
 - 1/3 cup **fish sauce**
     - This should be a sauce that's made just of fish, salt, and sugar
-- 1/3 cup **maple syrup**
+- 2 tablespoons **soy sauce**
+- 1/2 cup **maple syrup**
 - 1 dozen **eggs**
 - 1 pound **breakfast sausage**
 - 1 **onion**, sliced into strips
