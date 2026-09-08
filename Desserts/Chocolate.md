@@ -28,6 +28,21 @@ Add 5 grams (1 tablespoon) **ancho peppers**, dried, toasted, and ground
     - 1 part **allspice**
     - 1 part **cloves**
 
+## Peanut Butter Cups
+
+**Add**:
+
+- 128 grams (1/2 cup) peanut butter
+
+## New Directions
+
+Instead of the `pour into molds` step:
+
+1. Line a **24**-count mini-muffin pan with paper liners
+1. Pour just enough chocolate into each liner/cup to coat the bottom
+1. Drop 1 teaspoon (5 grams) of peanut butter into the center of each cup
+1. Pour another layer of chocolate on top, thick enough to coat all the peanut butter and leave a **level** top layer of chocolate
+
 ## Directions
 
 1. Melt the coconut oil
