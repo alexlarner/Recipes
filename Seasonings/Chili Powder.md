@@ -7,8 +7,10 @@ Makes 1 cup
 - 42 grams (1/2 cups) **dried peppers**, ground
     - 56 grams **ancho peppers**
         - Weighed after being stemmed & deseeded, but before being toasted
+        - Or 75 grams weighed before stemming & deseeding
     - 56 grams **guajillo peppers**
         - Weighed after being stemmed & deseeded, but before being toasted
+        - Or 70 grams weighed before stemming & deseeding
 - 9 grams (3 tablespoons) **mexican oregano**
 - 12 grams (2 tablespoons) **cumin seed**
 - 19 grams (2 tablespoons) **garlic powder**

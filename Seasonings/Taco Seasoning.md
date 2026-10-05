@@ -7,8 +7,10 @@
 - 42 grams (1/2 cup) **ground dried peppers**
     - 56 grams **ancho peppers**
         - Weighed after being stemmed & deseeded, but before toasting
+        - Or 75 grams weighed before stemming & deseeding
     - 56 grams **guajillo peppers**
         - Weighed after being stemmed & deseeded, but before toasting
+        - Or 70 grams weighed before stemming & deseeding
 - 60 grams (1/2 cup and 2 tablespoons) **cumin**
 - 98 grams (1/3 cup) **salt**
 - 51 grams (1/3 cup) **black peppercorns**
