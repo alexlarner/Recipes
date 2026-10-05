@@ -1,6 +1,6 @@
 # Taco Seasoning
 
-*Makes 3.5 cups*
+Makes 3.5 cups
 
 ## Ingredients
 

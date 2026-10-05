@@ -2,14 +2,15 @@
 
 ## Ingredients
 
-- 4 cups raw **peanuts**
-- 2 teaspoons salt
+- 584 grams (4 cups) **peanuts**, raw
+- 12 grams (2 teaspoons) **salt**
 
 ## Honey/Maple Roasted Peanuts
 
 Add:
 
-- 1/4 cup honey/maple syrup
+- (85 grams) 1/4 cup **honey**
+    - Or 79 grams (1/4 cup) **maple syrup**
 
 ## Directions
 
