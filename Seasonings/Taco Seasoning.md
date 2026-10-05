@@ -15,6 +15,7 @@
 - 12 grams (1/4 cup) **oregano**
 - 39 grams (1/4 cup) **garlic powder**
 - 20 grams (3 tablespoons) **onion powder**
+- 9 grams (3 tablespoons) **mexican oregano**
 
 ## Directions
 
