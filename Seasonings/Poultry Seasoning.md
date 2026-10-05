@@ -17,7 +17,7 @@ Makes almost a quart
     - Or 4 teaspoon **Szechuan peppercorns**
 - 26.67 grams (8 teaspoons) **garlic powder**
 - 18.4 grams (8 teaspoons) **onion powder**
-- 8 teaspoons **lemon zest powder**
+- 22 grams (8 teaspoons) **lemon zest powder**
 - 9.33 grams (4 teaspoons) **nutmeg**
 
 ## Directions
