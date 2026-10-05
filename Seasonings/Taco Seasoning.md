@@ -12,10 +12,9 @@
 - 60 grams (1/2 cup and 2 tablespoons) **cumin**
 - 98 grams (1/3 cup) **salt**
 - 51 grams (1/3 cup) **black peppercorns**
-- 12 grams (1/4 cup) **oregano**
+- 12 grams (1/4 cup) **mexican oregano**
 - 39 grams (1/4 cup) **garlic powder**
 - 20 grams (3 tablespoons) **onion powder**
-- 9 grams (3 tablespoons) **mexican oregano**
 
 ## Directions
 
