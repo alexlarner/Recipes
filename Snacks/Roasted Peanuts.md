@@ -10,21 +10,21 @@
 Add:
 
 - (85 grams) 1/4 cup **honey**
-    - Or 79 grams (1/4 cup) **maple syrup**
+    - Or 80 grams (1/4 cup) **maple syrup**
 
 ## Sweet & Spicy
 
 Add:
 
-- (85 grams) 1/4 cup **honey**
-- 2 teaspoons **fatalli** chilies, dried & ground
+- 85 grams (1/4 cup) **honey**
+- 1/2 teaspoon **fatalli** chilies, dried & ground
 
 ## PB & J
 
 Add:
 
-- (85 grams) 1/4 cup **honey**
-- 3 tablespoons **strawberries**, freeze-dried & powdered
+- (80 grams) 1/4 cup **maple syrup**
+- 27 grams (3 tablespoons) **strawberries**, freeze-dried & powdered
 
 ## Directions
 
