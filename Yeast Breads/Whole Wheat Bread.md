@@ -8,11 +8,10 @@ Makes 1 9" x 5" loaf
     - Or 270 grams (1 1/4 cups) **water**
 - 113 grams (1/3 cup) **honey**
 - 8 grams (2 teaspoons) **instant yeast**
-- 1 large egg
 - 85 grams (6 tablespoons) **butter**, softened
     - Or 70 grams **lard**
 - 448 grams (3 1/2 cups) **whole wheat bread flour**
-    - Or 476 grams (4 1/2 cups) **sprouted hard wheat flour**
+    - Or 581 grams (5 1/2 cups) **sprouted hard wheat flour**
 - 42 grams (3 tablespoons) **wheat gluten**
 - 10 grams (2 teaspoons) **kosher salt**
 
@@ -24,8 +23,7 @@ Makes 1 9" x 5" loaf
 
 **Replace amount:**
 
-- Milk/water with 227/240 grams (1 cup) **milk/water**
-- 480 grams (4 cups) **hard red wheat flour**, freshly milled
+- 580 grams **hard red wheat flour**, freshly milled
 
 ## Directions
 
