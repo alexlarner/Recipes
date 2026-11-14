@@ -174,7 +174,7 @@ Use as the base for these breads:
 
 - 1 (13.5 ounce) can **coconut milk**
 - 24 grams (2 tablespoons) **poppy seeds** (optional)
-    - 4 grams (1 tablespoon) **Szechuan peppercorns** ground
+    - Or 4 grams (1 tablespoon) **Szechuan peppercorns** ground
 - 11 grams (4 teaspoons) **lemon zest**, dried, ground
 
 **Use new amount:**
@@ -183,12 +183,19 @@ Use as the base for these breads:
     - Or 300 grams (3 3/4 cups) **oat flour**
 - 43 grams (3 tablespoons) **coconut oil**
 
-**Replace:**
+## Lemon Ginger
 
-- **Maple syrup** with one of these:
-    - 321 grams (1 cup) **coconut syrup**
-    - 220 grams (1 cup) **agave nectar**
-    - 254 grams (3/4 cup) **honey**
+**Add:**
+
+- 1 (13.5 ounce) can **coconut milk**
+- 11 grams (4 teaspoons) **lemon zest**, dried, ground
+- 2 teaspoons **ginger**, dried, ground
+
+**Use new amount:**
+
+- 300 grams (2 1/2 cups) **flour**
+    - Or 300 grams (3 3/4 cups) **oat flour**
+- 43 grams (3 tablespoons) **coconut oil**
 
 ### Margarita
 
