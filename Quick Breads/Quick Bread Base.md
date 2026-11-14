@@ -214,11 +214,14 @@ Use as the base for these breads:
 **Add:**
 
 - 1 (13.5 ounce) can **coconut milk**
-    - Or 2 cups **buttermilk**
 - 64 grams (2/3 cup) **cacao powder**
 - 10 grams (4 teaspoons) **Ceylon cinnamon**
-- 1 teaspoon **cayenne pepper**
-    - Or 2 teaspoons **ancho/guajillo peppers**, ground
+- 1 teaspoon **ancho peppers**, ground
+- 1 teaspoon **guajillo peppers**, ground
+- 1/2 teaspoon **nutmeg**, ground
+    - About 1/3 whole **nutmeg**
+- 1/4 teaspoon **allspice**, ground
+- 1/4 teaspoons **cloves**, ground
 
 **Use new amount:**
 
